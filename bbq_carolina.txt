@@ -1,85 +1,101 @@
-20140309
-Modernist here. Rub the pork with salt. No need to let it stand, since
-it’s going to stand like crazy in the smoker.
+There are four things that need to happen in this process. There are a
+number of options on how to proceed with them. Those four things are:
 
-Put in the smoker with hickory discs at 170.
+1) Make BBQ Sauce
+2) Make Slaw
+3) Cook the pork
+4) Smoke the pork (may be done at the same time as #3)
 
-Theory is, it’ll rapidly rise to about 150 (after something like 10
-hours; happened while I was asleep, last time - more than six and less
-than fifteen hours). After about eighteen hours total, the fat and
-collagen beginning to run out will *lower* the temp of the shoulder,
-to about 145. Once that process is complete, the temperature will *rise*
-to 160+ and level off. Once that happens, you’re done.
+In order:
 
----
-Take 1 pork shoulder.
+BBQ SAUCE
+This is a "Piedmont" or "Lexington" sauce. It is very thin, vinegary,
+and has a little of tomato in it for color and flavor (from
+ketchup). This yields about two cups, which is enough to make the slaw
+later in this recipe, and to use as the liquid in a pressure cooker if
+you're making it this way. You may wish to double up the sauce recipe
+so you have more to put on the finished product; it keeps basically
+forever since it's mostly vinegar.
 
-12 ounces of kosher salt and 2 quarts (8 cups) water. Heat the water
-enough to let the salt dissolve, and then chill the water.
+1-1/2 cups distilled white or cider vinegar 320 g (I prefer cider)
+10 tablespoons (200g) tomato ketchup
+Salt to taste, if desired
+1/2 teaspoon cayenne pepper
+Pinch of crushed hot red pepper flakes
+1 tablespoon sugar
+1/2 cup water
+Freshly ground pepper to taste
 
-Place the pork shoulder in the water after it has cooled, and refrigerate
-for 8-12 hours.
-
-Remove, rinse, pat dry, and let rack dry for ideally a couple of hours.
-
-Place in the smoker and smoke at 210 degrees until done, probably 8 -
-12 hours, to an internal temperature of 180. Let rest two to three hours
-before you cut it apart.
-
-http://www.ncbbqsociety.com/recipes/lexingtonstyle_dip.html
-
-===
-
-Sauce:
-
-Piedmont or Lexingston style is what I really want. Difference is adding
-some tomato (usually as ketchup)
+Put everything in a pot and bring it briefly to a boil and stir to
+combine. If you want to get fancy, you could hit it with a stick
+blender to dissolve all the ketchup solids. Let cool.
 
 
-1-1/2 cups distilled white or cider vinegar 320 g
+SLAW
+This is *not* Cole slaw, which has things like mayonnaise and raisins
+in it. It's just slaw, or maybe "red slaw" or "BBQ slaw" if you want
+to get all specific.
 
-10 tablespoons tomato catsup (200g) Salt to taste, if desired 1/2 teaspoon
-cayenne pepper Pinch of crushed hot red pepper flakes 1 tablespoon sugar
-1/2 cup water Freshly ground pepper to taste
+1 lbs shredded cabbage
+1 C BBQ Sauce, above
 
+Stir to combine, chill. Better if made a day or more in advance to let
+the flavors combine.
 
-Combine all ingredients in a small saucepan and bring to a simmer. Cook,
-stirring, until the sugar dissolves. Remove from the heat and let stand
-until cool. Spoon a small amount of the sauce over barbecued meats. Yield:
-three cups.
+COOKING THE PORK
+There are three basic options here for how to do it. The first is the
+hardest: Get a real smoker, rub the pork with salt, hickory smoke it
+for at least 18 hours. If you don't know how to do that, I'm not going
+to explain it here.
 
-Piedmont red slaw:
-http://www.slashfood.com/2009/01/03/north-carolina-bbq-slaw/
-Lexington Style BBQ Slaw (a.k.a. Red Slaw)
+The second way is sous vide: Cook the pork at 160F for 18 - 72 (!)
+hours, then see smoking instructions, below. If you have the ability
+to salt it before you sous vide it, that's great, and you
+should. Otherwise, you'll need to liberally salt the final
+result. (You may not be able to do this because if you're making a
+full 7 lbs shoulder, you probably can't re-vacuum seal it before you
+cook it).
 
-1 lb green cabbage
-4 tbsp ketchup or BBQ Sauce (80 g)
-3 tbsp sugar (40 g)
-1 tbsp cider vinegar
-1/2 tsp salt
-1/2 tsp red pepper flakes
+The third way is pressure cooking it. In this case, get a boneless
+half-shoulder (2.25 - 3.5 lbs generally). Rub it with salt. Place 1C
+of the BBQ SAUCE in the pressure cooker, then the shoulder, fat side
+up (if you do it the other way around, you'll wash all the salt
+off). Cook it on high pressure for 80 minutes, and then allow for a
+natural pressure release (generally about 25 more minutes).
 
-Finely chop or hand grate cabbage. Mix together other ingredients (scaling
-back seasonings to taste if BBQ sauce is used instead of ketchup), and
-pour over cabbage. Stir to coat, and chill, covered in the refrigerator
-for at least 20 minutes -- preferably longer to allow flavors to blend.
+SMOKING THE PORK
+If you cooked the pork by smoking it, you've already done this
+part. If you used sous vide or pressure cooking:
 
+You should hickory smoke the pork for at least an hour, ideally
+two. You can do this on a Weber or other similar charcoal grill with a
+lid either by placing hickory chips on hot coals (no need to wet
+them) with the vents mostly closed, or by burning hickory chunk wood
+(NOT charcoal). The pork will turn brown, and get almost black if you
+leave it long enough. Generally you'll want to poke the fire /
+replenish chips about once every half hour or so to keep the smoke
+active.
 
+If you don't have a fire available to you, you could *try* adding some
+liquid smoke flavor to the shredded pork. But, I find the hickory
+smoke flavor to be so essential to this, I've never tried it, and no
+promises. Good luck, though!
 
+SHREDDING THE PORK
+At this point the pork should be very tender. Take it to a cutting
+board, get two forks, and just pull the pork apart until you have a
+bunch of shreds of pork. There will be a little bit of inedible
+gristle and hunks of fat; just throw those away.
 
+Add additional salt and pepper to taste if desired, and you may wish
+to put some more BBQ sauce on the result.
 
+Serve with the slaw. You can eat this straight off a plate, it's also
+popular to serve it on hamburger buns, with the slaw on top of the
+meat (my preference). I also like to serve it with homemade cornbread
+and baked beans.
 
+Twitter thread with pictures of the presssure cooker variant:
 
-
-
-Old:
-
-
-1 cup white vinegar
-1 cup cider vinegar
-1 Tbsp brown sugar
-1 Tbsp cayenne pepper
-1 Tbsp Tabasco
-1 tsp salt
-1 tsp ground back pepper
-
+  https://twitter.com/the_quark/status/1157751918187302912?s=20
+  
