@@ -1,3 +1,14 @@
+Times:
+
+T+00:00 - Start dough, mix and knead. 
+T+00:30 - Fold dough over in dough tub
+T+02:15 - Make into round, back in dough tub
+T+03:45 - Into oven
+T+04:15 - Out of oven
+T+05:00 - Ready to cut
+
+So, if you want to have it on the table at 1830, start no later than 1330.
+
 550 g all-purpose flour, plus more for dusting
 300 g room-temperature water
 50 g 95F water
