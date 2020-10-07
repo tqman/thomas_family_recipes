@@ -12,8 +12,8 @@ Pork 140 for 2 hours
 Pork Ribs 165 for 18 hours
 Salmon 122 for 2 hours (depending on thickness)
 Squash, yellow 165
-Steak, Rare 125
-Steak, Medium Rare 135
+Steak, Rare 120
+Steak, Medium Rare 129
 Tuna, well-done, 160 for 1 hour
 Zucchini 165
 
