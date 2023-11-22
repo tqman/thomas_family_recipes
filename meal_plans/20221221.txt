@@ -1,0 +1,34 @@
+Wed:
+  Pasta
+
+Thu:
+  Beef Bourginon
+
+Fri:
+  Leftovers
+
+Christmas Eve:
+  Lunch:
+    Grilled Cheese and Tomato Soup? - No, Scones!
+
+  Dinner:
+    Clam Chowder
+
+Christmas Day:
+  Breakfast:
+    Orange Rolls
+
+  Lunch:
+    Quiche Florentine
+
+  Dinner:
+    Prime Rib au Jus
+    Sauteed Mushrooms
+    Macaroni and Cheese
+    Creamed Onions
+    Brussels Sprouts braised in Cream
+    Crescent Rolls
+    Pumpkin Pie
+
+Boxing Day:
+  Leftovers

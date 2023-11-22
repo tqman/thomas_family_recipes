@@ -1,0 +1,23 @@
+Saturday:
+  Grilled fish
+  Grilled veggie?
+
+Sunday:
+  Chili
+  Corn Bread
+
+Monday:
+  Reubens
+  
+Tuesday:
+  BLTs
+  Fresh baked bread?
+
+Wednesday:
+  Out
+
+Thursday:
+  Baked Penne
+
+Friday:
+  Rice bowls

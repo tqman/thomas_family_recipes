@@ -1,0 +1,19 @@
+Sun:
+  Grilled steak
+  Fresh bread
+  Roasted potatoes
+  Sauteed Mushrooms
+
+Mon:
+  Chicken curry
+
+Tue:
+  Mission dogs
+
+Wed:
+  Out
+
+Thu:
+  
+
+Fri:

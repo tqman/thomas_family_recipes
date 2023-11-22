@@ -1,0 +1,18 @@
+Sunday:
+  Something grilled and corn
+
+Monday:
+  Hamburgers
+  Brats
+  Sides?
+
+Tuesday:
+  Chili
+
+Wednesday:
+  Out
+
+Thurday:
+  Spaghetti Bolognese
+
+Friday:

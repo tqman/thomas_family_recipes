@@ -1,0 +1,19 @@
+Saturday:
+        Lunch:
+                Subs
+        Dinner:
+                Chicken cordon bleu and sauteed spinach
+
+Sunday:
+        Brunch:
+                Pancakes and bacon
+
+        Dinner:
+                Red beans and rice
+                
+Monday:
+        Pork chops with apple sauce, glazed carrots
+
+Tuesday:
+        Salmon teriyaki with steamed bok choy
+        

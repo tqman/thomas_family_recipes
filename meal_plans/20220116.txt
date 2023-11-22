@@ -1,0 +1,19 @@
+Sun:
+  Chicken Soup
+
+Mon:
+  Chili
+
+Tue:
+
+
+Wed:
+
+Thu:
+  Chili Mac
+
+Fri:
+  Gumbo
+
+Sat:
+

@@ -1,0 +1,20 @@
+Saturday:
+  Reubens
+
+Sunday:
+  Ham and Split-Pea Soup
+  Rolls
+
+Monday:
+  Grilled Cheese and Tomato Soup
+
+Tuesday:
+  Baked Penne
+
+Wednesday:
+  Out
+
+Thursday:
+  Leftover Baked Penne
+
+Friday:

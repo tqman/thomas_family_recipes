@@ -1,0 +1,19 @@
+Sun:
+  Chicken Kyiv
+  Mashed Potatoes
+  Sauteed Spinach
+
+Mon:
+  Chili with cornbread
+
+Tue:
+  Grilled cheese w/tomato soup
+
+Wed:
+  Out
+
+Thu:
+  Leftover Chili
+
+Fri:
+  Linguini al Gambini

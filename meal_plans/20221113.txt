@@ -1,0 +1,16 @@
+Sun:
+  Pot roast
+
+Mon:
+  Red beans and rice
+
+Tue:
+  Pork chops and veggies
+
+Wed:
+
+Thu:
+  Hot beef sandwiches
+
+Fri:
+  Leftover red beans and rice

@@ -1,0 +1,21 @@
+Sun:
+  Grilled burgers
+  Chips and Salsa
+
+Mon:
+  Out
+
+Tue:
+  Out
+
+Wed:
+  Out
+
+Thu:
+  Grilled Steak
+  Baked Potatoes
+
+Fri:
+  Chicken soup
+
+Sat:
