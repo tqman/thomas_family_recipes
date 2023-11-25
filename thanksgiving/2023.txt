@@ -1,6 +1,7 @@
 After-Action Report:
 - Turkey cooked too slow (will update Turkey recipe to increase temperature)
-- Double creamed onions took a loooong time to cook. Need start earlier.
+- Double creamed onions took a loooong time to cook. Need start
+  earlier (start time below is unaltered)
 - We could do the stuffing Wednesday and just warm it up with the
   green bean casserole
 - Don't use cling wrap to cover the pumpkin pie
