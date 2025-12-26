@@ -1,0 +1,36 @@
+# New England Clam Chowder
+
+## Ingredients
+
+- 4 cans minced clams or 32 oz frozen raw chopped clams
+- 8 oz clam juice
+- 16 oz chicken stock (or 24 oz chicken stock if no clam juice)
+- 4 slices (about 4 oz) thick-cut bacon, cut into 1/4 inch pieces
+- 1 large spanish onion, chopped medium
+- 2 Tbsp all-purpose flour
+- 1 1/2 lbs red potatoes (about 3 medium) scrubbed and cut into 1/2 inch dice
+- 1 large bay leaf
+- 1 tsp minced fresh thyme or 1/4 tsp dried
+- 1 C heavy cream
+- 2 Tbsp minced fresh parsley leaves
+- Salt and Pepper
+
+## Instructions
+
+1. **If using canned clams:** Open and drain the clams, reserving the juice.
+
+2. Fry the bacon in in a stockpot or dutch oven over medium-low heat until the fat is rendered and the bacon is crisp, 5-7 minutes.
+
+3. Add the onion and cook, stirring occasionally, until softened, about 5 minutes.
+
+4. Add the flour and stir until lightly colored, about 1 minute.
+
+5. Gradually whisk in the clam juice and chicken stock (and reserved juice if using canned clams). If using frozen or fresh clams, add them now. Add the potatoes, bay leaf, and thyme, and simmer until the potatoes are tender, about 10 minutes.
+
+6. If using canned clams, add the clams.
+
+7. Add the cream, parsley, and salt (if needed) and pepper to taste. Bring to a simmer, but do not boil. Remove the pan from the heat, discard the bay leaf, and serve immediately.
+
+## Source
+
+From *The New Best Recipe*
