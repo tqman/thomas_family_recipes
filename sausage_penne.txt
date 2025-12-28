@@ -1,5 +1,5 @@
 1 lbs Italian sausage (sweet or mild, as desired)
-1 lbs fresh sliced Mozeralla
+1 lbs fresh sliced Mozzarella
 4 servings (208g) penne
 Sauce from skillet_marinara.txt, cooked for an extra 5 - 10 minutes to
       reduce water, or marinara purchased from market
@@ -10,7 +10,7 @@ instructions.
 While that's boiling, brown sausage in a 12" oven-safe pan, and drain.
 
 When the penne is done, drain and add to the pan with the marinara,
-and stir all ingredients to mix well. Add the mozerella slices to
+and stir all ingredients to mix well. Add the mozzarella slices to
 cover the pan.
 
 Broil until the cheese is melted and and starting to brown. This is
