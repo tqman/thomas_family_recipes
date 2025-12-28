@@ -1,4 +1,6 @@
-Meals:
+# Easy Meals
+
+## Complete Meals:
 beef_stroganoff.txt
 black_beans.txt and yellow_rice.txt
 caesar_salad_dessing.txt with chicken breasts
@@ -17,13 +19,13 @@ skillet_marinare_sauce.txt on some kind of pasta
 sweet_and_sour_pork.txt
 thai_beef_with_basil.txt
 
-Entrees:
+## Entrees:
 Pork chops with apple_butter_sauce_for_pork.txt
 sizzling_shrimp_in_garlic_sauce.txt
 smoked_mussels.txt - with melted butter to dip in
 teriyaki_sauce.txt on salmon, baked at 450F for 10 minutes
 
-Sides:
+## Sides:
 dill_cucumber_salad.txt
 glazed_carrots.txt
 potatoes_baked.txt
