@@ -4,7 +4,7 @@ Sauce from spaghetti_bolognese.txt with below substitution
 1 15 oz container Ricotta cheese
 2 large eggs
 3 C (150g) freshly grated Parmesan cheese
-1/2 C chopped parsley
+½ C chopped parsley
 1 lbs mozzarella, grated
 
 First, make the sauce from spaghetti_bolognese.txt, but use 1 lbs
@@ -15,20 +15,20 @@ If not using fresh lasagna noodles, set water to boil.
 Preheat an oven to 350F.
 
 In a large bowl, mix together the Ricotta cheese, eggs, 1C (50g)
-Parmesan cheese, 1/2C chopped parsley, and grated mozzarella.
+Parmesan cheese, ½C chopped parsley, and grated mozzarella.
 
 If using dried noodles, cook them to the package's instructions.
 
-In a lasagna pan, make a thin layer (1/5) of the meat sauce on the
+In a lasagna pan, make a thin layer (⅕) of the meat sauce on the
 bottom of the pan. Then, lay four noodles on top of that. Add layer of
-1/5 of the original sauce amount on top of the noodles, then 1/3 of
+⅕ of the original sauce amount on top of the noodles, then ⅓ of
 the Ricotta mixture.
 
-Add a second layer of noodles, cover with sauce 1/5 of the original
-sauce amount, and add 1/2 of the remaining Ricotta mixture (1/3 of the
+Add a second layer of noodles, cover with sauce ⅕ of the original
+sauce amount, and add ½ of the remaining Ricotta mixture (⅓ of the
 original).
 
-Add a third layer of noodles, cover with 1/5 of the original sauce
+Add a third layer of noodles, cover with ⅕ of the original sauce
 amount, and add the remaining Ricotta mixture.
 
 Finally, add a fourth layer of noodles, cover with the remaining sauce

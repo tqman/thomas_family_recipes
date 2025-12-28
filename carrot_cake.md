@@ -52,19 +52,19 @@ My brother Brett always had this carrot cake on his birthday. When I found the r
 ### Ingredients
 
 **Cake:**
-- 1 1/2 cup vegetable oil
-- 2 cups sugar
+- 1 1/2 Cvegetable oil
+- 2 Csugar
 - 4 eggs
-- 2 1/2 cups flour
-- 2 teaspoons baking soda
-- 2 teaspoons cinnamon
-- 3 cups grated carrots
+- 2 1/2 Cflour
+- 2 tspbaking soda
+- 2 tspcinnamon
+- 3 Cgrated carrots
 
 **Icing:**
 - 8 oz cream cheese
 - 1 stick butter
 - 1 box powdered sugar
-- 2 teaspoons vanilla
+- 2 tspvanilla
 
 ### Directions
 

@@ -5,7 +5,7 @@
 - 2 lbs Yukon Gold (or Russet) potatoes, scrubbed
 - 8 Tbsp (1 stick) unsalted butter, melted
 - 1 C cream, warmed (unwarmed was fine)
-- 1 1/2 tsp salt
+- 1½ tsp salt
 - Ground white pepper (may substitute black; white is for aesthetics)
 - 2 heads of roasted garlic (optional)
 

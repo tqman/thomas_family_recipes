@@ -5,12 +5,12 @@
 - 4 cans minced clams or 32 oz frozen raw chopped clams
 - 8 oz clam juice
 - 16 oz chicken stock (or 24 oz chicken stock if no clam juice)
-- 4 slices (about 4 oz) thick-cut bacon, cut into 1/4 inch pieces
+- 4 slices (about 4 oz) thick-cut bacon, cut into ¼ inch pieces
 - 1 large spanish onion, chopped medium
 - 2 Tbsp all-purpose flour
-- 1 1/2 lbs red potatoes (about 3 medium) scrubbed and cut into 1/2 inch dice
+- 1½ lbs red potatoes (about 3 medium) scrubbed and cut into ½ inch dice
 - 1 large bay leaf
-- 1 tsp minced fresh thyme or 1/4 tsp dried
+- 1 tsp minced fresh thyme or ¼ tsp dried
 - 1 C heavy cream
 - 2 Tbsp minced fresh parsley leaves
 - Salt and Pepper

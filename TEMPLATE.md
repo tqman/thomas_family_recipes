@@ -4,7 +4,7 @@
 
 - 4 Tbsp ingredient
 - 1 tsp another ingredient
-- 1 1/2 C third ingredient
+- 1½ C third ingredient
 - 20 mg fourth ingredient
 
 ## Instructions

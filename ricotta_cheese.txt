@@ -1,6 +1,6 @@
 Begin with the whey output from cheese_curds.txt.
 
-Set IP to 185F (uncovered), and heat to 170F. Add 1/2 tsp salt, mix in
+Set IP to 185F (uncovered), and heat to 170F. Add ½ tsp salt, mix in
 quickly.
 
 Set IP to 208F, and heat to 185F - 195F (in this range; exact temp
