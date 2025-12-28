@@ -1,0 +1,50 @@
+# Simple Bread
+
+## Times
+
+- T+00:00 - Start dough, mix and knead
+- T+00:30 - Fold dough over in dough tub
+- T+02:15 - Make into round, back in dough tub
+- T+03:45 - Into oven
+- T+04:15 - Out of oven
+- T+05:00 - Ready to cut
+
+So, if you want to have it on the table at 1830, start no later than 1330.
+
+## Ingredients
+
+- 550 g all-purpose flour, plus more for dusting
+- 300 g room-temperature water
+- 50 g 95F water
+- 11 g salt
+- 2.5 g active dry yeast
+
+## Instructions
+
+Place the yeast in the warm water and leave until it is foamy.
+
+Place all ingredients in mixer, and mix on low with a dough hook until a dough forms. Cover the bowl with a dishtowel or plastic wrap, and let rest for fifteen minutes.
+
+Remove the bowl cover, and mix on medium-high until the dough feels elastic and bounces partway back when indented with your thumb, about 3-5 minutes.
+
+Lightly oil a bowl. With oiled hands, gently transfer the dough, taking taking care not to tear its surface. Cover, and let rise at room temperature for 30 minutes.
+
+Uncover dough and fold it in half, being careful not to compress it too much. Re-cover with plastic wrap and let stand until dough has increased in volume by half, about 1 hour 45 minutes longer.
+
+Lightly dust a work surface with flour. Shape the dough into a round, folding the dough under itself to create a smooth surface with a seam on the bottom. Let dough rest on the work surface, seam-side down, for 5 minutes. The dough should now be reasonably dry on the outside.
+
+Clean the bowl of oil, dry it, and place the dough in the bowl, seam-side down. Allow the dough to rise, covered until it has nearly doubled in size, about 1 hour, 30 minutes.
+
+Meanwhile, place an uncovered dutch oven on the oven's bottom rack and preheat the oven to 500F.
+
+Open the oven and move the hot dutch oven to the stovetop. Gently turn the the loaf out, seam-side down, into the dutch oven. Score the top with a sharp knife to make two parallel cuts roughly 3 inches apart. Spray the top of the loaf with water (or sprinkle).
+
+Cover and bake for fifteen minutes.
+
+Lower oven temperature to 450F and bake for fifteen more minutes.
+
+Remove from oven, and transfer to a wire rack and let cool for an hour before cutting.
+
+## Source
+
+Inspired by https://www.seriouseats.com/recipes/2014/08/simple-crusty-white-bread-recipe.html

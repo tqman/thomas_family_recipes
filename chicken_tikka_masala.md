@@ -1,0 +1,58 @@
+# Chicken Tikka Masala
+
+This is my modernist take on the recipe from New Best Recipe.
+
+You probably don't have on hand: Fresh ginger; whole milk yogurt; heavy cream; cilantro leaves; 4 chicken breasts, 1 28 oz can chopped tomatoes
+
+## Ingredients
+
+### Chicken tikka marinade (experimental 20150801)
+
+- 2 tsp ground cumin
+- 2 tsp coriander
+- 1/2 tsp cayenne pepper
+- 1 C plain whole milk yogurt
+- 2 Tbsp vegetable oil
+- 2 Tbsp minced or grated fresh ginger
+- 4 garlic cloves, smashed
+
+### Chicken tikka
+
+- 4 boneless skinless chicken breasts
+- 1 tsp salt
+- 1/2 tsp ground cumin
+- 1/2 tsp ground coriander
+- 1/4 tsp cayenne pepper
+- 1 C plain whole milk yogurt
+- 2 Tbsp vegetable oil
+- 1 Tbsp minced or grated fresh ginger
+- 2 garlic cloves, minced
+
+### Masala Sauce
+
+- 3 Tbsp vegetable oil
+- 1 medium onion, minced
+- 1 Tbsp garam masala
+- 1 Tbsp tomato paste
+- 2 medium garlic cloves, minced
+- 1 Tbsp fresh ginger, minced or grated
+- 1 serrano chili, seeded and minced
+- 1 28 oz can chopped tomatoes
+- 2 tsp sugar
+- 1/2 tsp salt
+- 2/3 C heavy cream
+- 1/4 C chopped fresh cilantro leaves
+
+## Instructions
+
+### Chicken
+
+Sous vide chicken at 140 for two hours. Combine salt, cumin, coriander and cayenne in a small bowl. Press it into the chicken breasts, cover them, and refrigerate for 30 - 60 minutes. Whisk together the yogurt, oil, ginger and garlic; set aside. Immediately before serving, coat each chicken piece in the yogurt mixture, and brown. If no sous vide
+
+When done, cut the breasts into bite-sized chunks, and stir into the masala sauce. Serve immediately.
+
+### Masala Sauce
+
+Chop the onion in the handy-chopper.
+
+Heat oil in a large dutch oven. Add the onion, and cook until translucent (about 8 minutes). Add the garam masala, tomato paste, garlic, ginger and chile, and stir, cooking until fragrant, about 3 minutes. Add the crushed tomatoes, sugar, and salt. Hit this mixture with the stick blender until smooth. Then, bring to a boil and simmer for fifteen minutes. Stir in the heavy cream, and cilantro, and return to a simmer. Cover and remove from heat. If chicken isn't yet ready, when it is, heat the sauce (but don't simmer the chicken in it) and stir the chicken in.

@@ -1,0 +1,26 @@
+# Curry
+
+## Ingredients
+
+- 2 Tbsp butter
+- 1/2 med. yellow onion, sliced
+- 7 cloves garlic, minced
+- 3 Tbsp yellow curry powder
+- 1 tsp ground ginger (or some fresh)
+- 2 tsp salt
+- 2 C coconut milk
+- 1/2 C raisins
+- 2 Thai chilis, sliced thin, with seeds (optional)
+- Meat and/or vegetables for curry, cut into bite-sized pieces. May be pre-cooked or raw (great way to use up leftovers!)
+
+## Instructions
+
+Melt the butter over medium heat in a dutch oven. Add the onions and chilis (if using), and saute until onions are translucent, about 8 minutes. Add garlic, and cook until fragrant, about 30 seconds.
+
+Add the curry powder, ginger, and salt, and stir.
+
+Slowly add the coconut milk, and stir to combine. Bring to a boil, and then simmer uncovered for 30 minutes.
+
+If adding raw food (like chicken chunks), add after fifteen minutes. If adding pre-cooked food, add it as you remove the sauce from heat.
+
+After removing from heat, cover the pot and let set for 30 minutes to let flavors combine. Reheat to warm (if needed) and serve.

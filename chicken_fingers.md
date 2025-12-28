@@ -1,0 +1,49 @@
+# Chicken Fingers
+
+You want 2 - 3 fingers per person and 8 spuds per person, so you need to figure quantities out.
+
+Makes enough for four.
+
+## Ingredients
+
+### Chicken Fingers
+
+- 2C flour
+- 2C (475 ml/g) Pilsner or Lager beer
+- 2 lbs chicken tenders
+- 1 tsp salt
+- 2 tsp paprika
+- Pepper
+- Peanut oil
+- Dill pickle spears
+
+### Spuds (optional)
+
+- 1 Russet potato, peeled and sliced about 1/4" thick
+
+### Honey horseradish dip
+
+- Honey
+- Horseradish sauce
+
+## Instructions
+
+Place the peanut oil in a dutch oven and heat to 375F.
+
+In shallow bowl, whisk together the 2C flour, salt, paprika, and pepper. Then, add the beer.
+
+Dip the tenders in batter. Deep fry the tenders until a deep golden brown (4 - 6 minutes depending how well you control the oil temperature). Place them on a rack to drain and cool before eating.
+
+If making the potatoes, do the same with them.
+
+I recommend making the chicken first, then letting it rest in a warm oven while you make the potatoes.
+
+Serve with the dill pickle spears and honey horseradish dip (which is just honey with horseradish added to taste; it should be cloudy and a little spicy).
+
+## Notes
+
+This is an attempt to replicate the chicken fingers from Spanky's Pizza Gallery and Saloon in Savannah, GA, from my youth. They were the first chicken fingers I'd ever had, not long after we moved there in 1977. I (much later) found out that they literally invented chicken fingers in 1976, so I was unknowingly one of the first people to fall in love with this! Please note that at the time of writing this it's been about fifteen years since I had any so I have no idea how accurate it is.
+
+## Source
+
+Initially from https://www.delish.com/cooking/recipe-ideas/recipes/a50637/beer-battered-chicken-tenders-recipe/

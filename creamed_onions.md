@@ -1,0 +1,36 @@
+# Creamed Onions
+
+## Ingredients
+
+- 1 12 (14?) oz bag frozen pearl onions
+- 1 C low-sodium chicken broth
+- 1/4 C dry sherry
+- 1 tsp minced fresh thyme
+- 1 bay leaf
+- 1 1/2 tsp cornstarch
+- 1 C whole milk
+- 1 C heavy cream
+- Salt and pepper
+- 1/4 C minced fresh chives
+- 2 tsp lemon juice
+- Fresh nutmeg
+
+## Instructions
+
+Bring onions, broth, sherry, thyme, and bay leaf to boil in 12+ inch nonstick skillet or cast-iron pan over high heat. Reduce heat to medium and simmer until liquid evaporates, 12 to 15 minutes.
+
+Whisk cornstarch and 1 Tbsp milk together in small bowl until combined. Stir cream, remaining milk, cornstarch mixture, 1 tsp salt, and 1/2 tsp pepper into the onions and bring to a boil. Reduce heat to medium-low and cook, stirring occasionally, until sauce is thickened and onions are tender when pierced with tip of a paring knife, 8 - 10 minutes.
+
+Off heat, stir in 2 Tbsp chives, lemon juice, and grate nutmeg over the top. Remove bay leaf. Season with salt and pepper to taste. Transfer to serving bowl. Sprinkle with remaining 2 Tbsp chives. Serve immediately.
+
+These may be kept edible a bit longer by putting them on the "warm" setting of a crockpot.
+
+## Notes
+
+Convo with Nathan: Add some sage since you prolly have it anyway?
+
+## Source
+
+From https://www.cookscountry.com/recipes/7162-creamed-onions?extcode=MASKD00L0&ref=new_search_experience_1
+
+

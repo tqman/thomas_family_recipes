@@ -1,0 +1,31 @@
+# Roasted Potatoes
+
+## Ingredients
+
+- 1 - 2 lbs small potatoes, halved
+- 2 Tbsp high-temperature oil (such as avocado)
+- ½ tsp sea salt
+- ¼ tsp black pepper
+- 1 Tbsp freshly chopped rosemary
+
+## Instructions
+
+1. Preheat oven to 425 degrees F
+
+2. Add potatoes to a baking sheet and drizzle with oil. The potatoes should be coated but not soaking in oil. Then add salt, pepper, and rosemary, and toss well to combine.
+
+3. Roast until golden brown and crispy, about 30-35 minutes.
+
+## Notes
+
+All quantities above are for reference; when actually making this, I just buy "whatever the bag of small potatoes is," cut them, chop some rosemary, drizzle on some oil, then sprinkle on some salt, the rosemary, and grind some pepper over them.
+
+It would probably be fine to substitute olive oil or melted butter, but they have low smoke points and I fear at 425F you'd set off the smoke detector.
+
+My favorite potatoes are the small yellow ones (ideally actual Yukon Gold) but white or red will be delicious anyway.
+
+Finally if fresh rosemary is a problem, any fresh herb will probably be delicious. Or, try dried rosemary at worst - I'm sure it'll be better than nothing.
+
+## Source
+
+Inspired by https://minimalistbaker.com/perfect-roasted-potatoes/

@@ -1,0 +1,31 @@
+# Potato Salad with Mustard and Dill
+
+## Ingredients
+
+### Vinaigrette
+- ½ C extra-virgin olive oil
+- 2 Tbsp brine from a jar of cornichons, gherkins or other small pickles, plus more as needed
+- 1 Tbsp red wine vinegar
+- 1 heaping tsp (the table kind) Dijon mustard
+- 1 Tbsp honey
+- Kosher salt
+- Freshly ground black pepper
+
+### Potato Salad
+- 1½ lbs small skin-on Yukon Gold or other yellow-fleshed potatoes, scrubbed and quartered
+- Kosher salt
+- 8 cornichons, gherkins or other small pickles, finely chopped (about ½ C)
+- ½ C minced fresh dill
+- Freshly ground black pepper
+
+## Instructions
+
+1. Place the potatoes in pot and cover them with 1" of water. Place on the stove and bring to a boil and cook until the potatoes are done but still firm, 10 - 15 minutes. Drain the potatoes, place them back in the pan and cover with cold water to help them cool for about ten minutes. Once cool enough to work with (but still warm), quarter them and toss them with the dill and chopped cornichons.
+
+2. Place all the vinaigrette ingredients in the stick blender cup and blend until emulsified, then toss the potatoes in it.
+
+3. Serve warm, or refrigerate to cool. Benefits from being made ahead so the flavors can combine.
+
+## Source
+
+From https://www.washingtonpost.com/recipes/mustard-and-dill-potato-salad/16599/?utm_term=.4d472a0f7891

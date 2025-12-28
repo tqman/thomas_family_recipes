@@ -1,0 +1,36 @@
+# Chili
+
+## Ingredients
+
+- 1 lbs ground beef, any fat percentage
+- 1 lbs ground bison or venison
+- 28 oz canned chopped tomatoes
+- 16 oz dried kidney beans
+- 1 medium white onion, chopped
+- 12 garlic cloves, minced
+- 3 Tbsp chili powder
+- 1 Hershey's chocolate bar
+- 1 1/2 tsp salt
+- 1/2 tsp msg
+- 1/2 tsp smoked paprika
+- 1 1/2 tsp cayenne
+- 1 can Guiness Beer
+- 2C Beef Stock, Low Sodium
+
+## Instructions
+
+Brown the beef and game meat together in a skillet until the fat is rendered. Drain the fat off and discard (or save for another use).
+
+Then, dump everything in the slow cooker, cover, and cook on low for 8 hours.
+
+Pairs excellently with [corn bread](cornbread.md).
+
+## Notes
+
+**Safety Note:** Kidney beans have a toxic compound, "phytohaemagglutinin," in them. It is removed by cooking them at over 212F for more than ten minutes. You will find dire warnings online about **never** cooking kidney beans in a slow cooker because it does not get hot enough to destory this chemical. My slow cooker even on low boils for more than an hour at the end, and I've made this recipe for more than ten years without incident. If you're concerned, you can substitute black beans.
+
+**Soaking Note:** Similary people will say you must soak the beans for five hours, or overnight, and discard the water or else face gastrointestinal issues. Again, I don't do this and have never had an issue, but if you're sensitive, you may soak the beans before-hand and discard the water, and then follow the recipe above unchanged.
+
+## Source
+
+Loosely inspired by: http://www.marthastewart.com/313267/slow-cooker-beef-and-black-bean-chili

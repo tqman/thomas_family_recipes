@@ -1,0 +1,25 @@
+# Biscuits and Sausage Gravy
+
+## Ingredients
+
+- 1 lbs (454g) bulk breakfast sausage
+- 1/3 C (40g) all-purpose flour
+- 3 - 4 C whole milk, or more to taste
+- 1/2 tsp salt
+- Black pepper
+
+## Instructions
+
+Make the biscuits from biscuits.txt. Once you put them in the oven, begin to work on the sausage gravy.
+
+In a cast-iron skillet, or nonstick pan, brown and break up the sausage. Sprinkle half the flour into the skillet until the sausage and rendered fat soak it up, then add a the remainder a little at a time until it's all incorporated. Cook for one minute.
+
+Add the milk.
+
+Cook, stirring frequently, until the gravy begins to thicken, about 11 minutes. Add the salt and pepper. If it over-thickens, add more milk, this is an art, not a science.
+
+Spoon the gravy over the biscuits and serve immediately!
+
+## Source
+
+From https://www.foodnetwork.com/recipes/sausage-gravy-2145820

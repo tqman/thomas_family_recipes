@@ -1,0 +1,24 @@
+# Chicken Cordon Bleu
+
+## Ingredients
+
+- 2/3 cup panko bread crumbs
+- 1 Tbsp unsalted butter
+- Salt and pepper
+- 2 oz Gruyère cheese
+- 4 slices deli ham (4 ounces)
+- 2 (6- to 8-ounce) boneless, skinless chicken breasts
+- 4 tsp Dijon mustard
+- 1 large egg, lightly beaten
+
+## Instructions
+
+Adjust oven rack to upper-middle position and heat oven to 400 degrees. Toss panko with melted butter, 1/4 tsp salt, and 1/4 teaspoon pepper in 8 1/2 by 4 1/2-inch loaf pan until combined. Bake until golden brown, 5 to 7 minutes, stirring halfway through baking. Let cool completely.
+
+Roll each piece of Gruyère in 1 slice of ham, folding edges of ham over so no cheese is exposed. Using sharp knife, cut each chicken breast in half horizontally into 2 equal-size cutlets. Season chicken with salt and pepper and spread 1 tsp mustard evenly on cut side of each cutlet. Working with 1 cutlet at a time, place 1 ham-and-­Gruyère roll 1 inch from thick end of mustard side of cutlet and roll up tightly. Secure each chicken roll with toothpick and set aside, seam side down.
+
+Brush tops of chicken rolls with egg and dip into panko mixture, pressing gently to adhere. Discard remaining panko mixture. Arrange chicken rolls, crumb side up, in now-empty loaf pan. Bake until chicken registers 160 degrees, 30 to 35 minutes, rotating pan halfway through cooking. Remove toothpicks and serve.
+
+## Source
+
+From https://www.cookscountry.com/recipes/7308-chicken-cordon-bleu-for-two?ref=new_search_experience_1&extcode=MASKD00L0#

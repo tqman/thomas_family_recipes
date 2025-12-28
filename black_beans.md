@@ -1,0 +1,21 @@
+# Black Beans
+
+## Ingredients
+
+- 1 pound of black beans
+- 5 cloves of garlic, smashed
+- 1/2 small onion, chopped
+- 1 tsp salt
+- 1/2 tsp dried cilantro
+- 1/2 tsp cumin
+- 1/2 tsp red pepper
+- 1 bay leaf
+- 6 C chicken stock
+
+## Instructions
+
+Put everything in the slow cooker. Cook for eight hours on low.
+
+Most recipies like this want you to soak the beans before-hand. In my experience, cooking for eight hours in the slow cooker seems to soak them at the same time as they cook, and I've never had any problems with not soaking them.
+
+For frijoles negro con queso, add 16oz of Mexican Blend cheese after
