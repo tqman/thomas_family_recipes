@@ -1,6 +1,6 @@
 # Pizza
 
-20190401: See pizza_dough_from_the_elements_of_pizza.txt
+20190401: See [pizza_dough_from_the_elements_of_pizza.md](pizza_dough_from_the_elements_of_pizza.md)
 
 ## Making Pizza (Traditional Method)
 

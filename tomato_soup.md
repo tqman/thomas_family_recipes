@@ -1,26 +1,25 @@
-2 28oz cans diced tomatoes
-16 oz chicken broth
-4 cloves of garlic, minced
-1 Tbsp dried basil
-1 C heavy cream
-1 stick butter
-3 Tbsp brandy (optional)
+# Tomato Soup
 
-Drain the tomatoes, and reserve the juice. Spread the tomatoes on a
-baking sheet covered in aluminum foil, and bake at 400 degrees for 30
-minutes (until they dry out and begin to caramelize).
+## Ingredients
 
-Scrape the tomatoes into a pot with everything except the cream and
-butter, and cook for at least ten minutes (the longer, the more the
-flavors will combine). When almost ready to serve, add the brandy and
-butter, cook until it melts, then add the cream and blend it all until
-it's smooth.
+- 2 28oz cans diced tomatoes
+- 16 oz chicken broth
+- 4 cloves of garlic, minced
+- 1 Tbsp dried basil
+- 1 C heavy cream
+- 1 stick butter
+- 3 Tbsp brandy (optional)
+
+## Instructions
+
+Drain the tomatoes, and reserve the juice. Spread the tomatoes on a baking sheet covered in aluminum foil, and bake at 400 degrees for 30 minutes (until they dry out and begin to caramelize).
+
+Scrape the tomatoes into a pot with everything except the cream and butter, and cook for at least ten minutes (the longer, the more the flavors will combine). When almost ready to serve, add the brandy and butter, cook until it melts, then add the cream and blend it all until it's smooth.
 
 Add salt and pepper to taste.
 
 Can be improved by using lots of fresh chopped basil instead of the dried.
 
-From The New Best Recipe
+## Source
 
-
-
+From *The New Best Recipe*

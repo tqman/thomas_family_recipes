@@ -1,17 +1,22 @@
-1½ - 2 lbs New York Strip steak
-4 strips bacon
-1 small yellow onion
-2 carrots
-2 pieces of celery
-2 sprigs rosemary
-2 bunches thyme
-12 cloves garlic
-½ tsp allspice (might be OK with more)
-½ tsp cinnamon (might be OK with less)
-1 C chicken stock
-2 Tbsp flour
-2 [pie shells](pie_dough_for_prebaked_pie_shell.txt), homemade or
-storebought, unbaked.
+# Meat Pie
+
+## Ingredients
+
+- 1½ - 2 lbs New York Strip steak
+- 4 strips bacon
+- 1 small yellow onion
+- 2 carrots
+- 2 pieces of celery
+- 2 sprigs rosemary
+- 2 bunches thyme
+- 12 cloves garlic
+- ½ tsp allspice (might be OK with more)
+- ½ tsp cinnamon (might be OK with less)
+- 1 C chicken stock
+- 2 Tbsp flour
+- 2 [pie shells](pie_dough_for_prebaked_pie_shell.md), homemade or storebought, unbaked.
+
+## Instructions
 
 Cut the bacon into lardons
 
@@ -23,29 +28,20 @@ Chop the rosemary and thyme, fine
 
 Fry the bacon until crispy, then remove with a slotted spoon to a bowl.
 
-Brown the beef in batches of about a handful in the bacon fat. To brown
-these small pieces well, brown them on one side for several minutes,
-then quickly toss them to sear the outside, and remove to the bowl with
-the bacon.
+Brown the beef in batches of about a handful in the bacon fat. To brown these small pieces well, brown them on one side for several minutes, then quickly toss them to sear the outside, and remove to the bowl with the bacon.
 
 Set oven to 350.
 
-Put the mirepoix in the pan, reduce heat to medium, and stir vigorously
-with a wooden spoon to remove the fond from the pan. Add the rosemary
-and thyme.
+Put the mirepoix in the pan, reduce heat to medium, and stir vigorously with a wooden spoon to remove the fond from the pan. Add the rosemary and thyme.
 
-When the onion is soft (about ten minutes), add the garlic and stir
-until fragrant (about 30 seconds). Stir in the flour, and cook until
-brown a little, 1-2 minutes. Add the chicken stock and stir to mix. Add
-whatever juices have been released from the beef.
+When the onion is soft (about ten minutes), add the garlic and stir until fragrant (about 30 seconds). Stir in the flour, and cook until brown a little, 1-2 minutes. Add the chicken stock and stir to mix. Add whatever juices have been released from the beef.
 
 Increase heat, and cook until sauce is very thick (think gravy).
 
-Place this mix in a pie pan and shell, cover with more pie shell, and
-put in oven for 45 minutes.
+Place this mix in a pie pan and shell, cover with more pie shell, and put in oven for 45 minutes.
+
+## Source
 
 Inspiration from:
-
-http://blogs.kcrw.com/goodfood/2010/09/best-in-show-meat-pie-recipe/
-
-http://www.tasteofhome.com/Recipes/French-Meat-Pie
+- http://blogs.kcrw.com/goodfood/2010/09/best-in-show-meat-pie-recipe/
+- http://www.tasteofhome.com/Recipes/French-Meat-Pie

@@ -1,25 +1,26 @@
-6 oz oatmeal stout, such as Schlafly's
-1 oz maple syrup
-1 whole egg
-1½ oz brandy
+# Warm Ale Flip
 
-Pour six oz of beer into a saucepan, then heat on the stove until
-it starts to bubble. Do not let it boil.
+## Ingredients
 
-While beer is heating, whisk together syrup, egg, and brandy in a
-heat-safe mixing bowl.
+- 6 oz oatmeal stout, such as Schlafly's
+- 1 oz maple syrup
+- 1 whole egg
+- 1½ oz brandy
 
-After beer is fully heated, slowly pour the hot beer into the
-spirit-sugar-egg mixture, stirring continually as you pour in order to
-integrate the hot beer without cooking the egg.
+## Instructions
 
-Finally, rapidly pour the mixture back and forth between your mixing
-bowl and your saucepan. You’ll need to do this four or five times. The
-goal is to aerate the drink and froth the mixture. Some splashing is
-to be expected. You should probably do this over a sink.
+Pour six oz of beer into a saucepan, then heat on the stove until it starts to bubble. Do not let it boil.
 
-From: https://cocktailswithsuderman.substack.com/p/this-christmas-make-a-flip
+While beer is heating, whisk together syrup, egg, and brandy in a heat-safe mixing bowl.
 
-Christmas, 2020: Made with Anchor Steam Holiday Ale and Dark Rum, with
-fresh nutmeg grated over the top. Was very good but a little bitter,
-interested to try it with oatmeal stout
+After beer is fully heated, slowly pour the hot beer into the spirit-sugar-egg mixture, stirring continually as you pour in order to integrate the hot beer without cooking the egg.
+
+Finally, rapidly pour the mixture back and forth between your mixing bowl and your saucepan. You'll need to do this four or five times. The goal is to aerate the drink and froth the mixture. Some splashing is to be expected. You should probably do this over a sink.
+
+## Notes
+
+Christmas, 2020: Made with Anchor Steam Holiday Ale and Dark Rum, with fresh nutmeg grated over the top. Was very good but a little bitter, interested to try it with oatmeal stout
+
+## Source
+
+From https://cocktailswithsuderman.substack.com/p/this-christmas-make-a-flip

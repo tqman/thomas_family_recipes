@@ -1,23 +1,28 @@
-First time I made this I had a lot of salt left in the bottom of the
-cup - maybe as much as 1/8 cup? Might nuke the syrup next time to help
-it dissolve, or dredge the salt up and rub it on by hand.
+# Home Cured Bacon
 
-http://www.legourmet.tv/cooking/homemadebacon.html
+## Ingredients
 
-5-6 lbs skin on pork belly 1/4 C coarse Kosher salt 1/2 C
-maple syrup
+- 5-6 lbs skin on pork belly
+- 1/4 C coarse Kosher salt
+- 1/2 C maple syrup
 
-Mix it all in a bowl, then rub it all over the pork belly. Put in a bag,
-seal it tight, leave it in the fridge for at least three days, rotating
-it daily to get both sides.
+## Instructions
 
-Day before you're going to smoke it, remove it, rinse it, pat it dry,
-and put it back in the fridge exposed to the air so it'll dry out.
+Mix it all in a bowl, then rub it all over the pork belly. Put in a bag, seal it tight, leave it in the fridge for at least three days, rotating it daily to get both sides.
+
+Day before you're going to smoke it, remove it, rinse it, pat it dry, and put it back in the fridge exposed to the air so it'll dry out.
 
 Remove, rinse, and smoke at 200 until internal temp is 150.
 
-Take it off the smoker, let it cool, and then refrigerate it over
-night. Next day, slice off the skin, then slice the bacon.
+Take it off the smoker, let it cool, and then refrigerate it over night. Next day, slice off the skin, then slice the bacon.
+
+## Notes
+
+First time I made this I had a lot of salt left in the bottom of the cup - maybe as much as 1/8 cup? Might nuke the syrup next time to help it dissolve, or dredge the salt up and rub it on by hand.
+
+## Source
+
+From http://www.legourmet.tv/cooking/homemadebacon.html
 
 
 

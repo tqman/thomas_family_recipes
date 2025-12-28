@@ -11,7 +11,7 @@ Place all this in the stick blender container and blend it. Salad will
 also want:
 
 1 bag of romaine hearts
-Croutons
+[Croutons](croutons.md)
 1/3 C (10 g) Grated Parmesan
 
 

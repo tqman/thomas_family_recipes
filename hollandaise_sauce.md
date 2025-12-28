@@ -1,16 +1,16 @@
-3 egg yolks
+# Hollandaise Sauce
 
-8 Tbsp unsalted butter
-Pinch salt
-Pinch cayenne
-2 Tbsp fresh-squeezed lemon juice (a bit less than in one lemon, generally)
+## Ingredients
 
-Traditional: Melt butter until foaming, but try not to boil it too much
-(you want the water in it). Put the yolks in the blender, and blend
-on low for 30 seconds or until the yolks lighten. Add the lemon just,
-salt and cayenne, pulse. Then, slowly pour the butter into the egg yolks
-while blending on high. Leave behind the white milk solids at the end.
+- 3 egg yolks
+- 8 Tbsp unsalted butter
+- Pinch salt
+- Pinch cayenne
+- 2 Tbsp fresh-squeezed lemon juice (a bit less than in one lemon, generally)
 
-Sous vide: Put everything in a bag. Seal it, and place in a water bath
-at 149. Hit it with the stick blender after an hour
+## Instructions
+
+**Traditional:** Melt butter until foaming, but try not to boil it too much (you want the water in it). Put the yolks in the blender, and blend on low for 30 seconds or until the yolks lighten. Add the lemon juice, salt and cayenne, pulse. Then, slowly pour the butter into the egg yolks while blending on high. Leave behind the white milk solids at the end.
+
+**Sous vide:** Put everything in a bag. Seal it, and place in a water bath at 149. Hit it with the stick blender after an hour.
 

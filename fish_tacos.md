@@ -1,31 +1,35 @@
-Garnishes: Pico de gallo (or tomato mango avocado salsa)
-Crema Mexicana
-1/2 C roughly chopped cilantro
-2 limes, cut into wedges
-2 C shredded cabbage
-12 6-inch tortillas
-1 avocado, cut into cubes, with lime juice squeezed all over them
-Sweet onion, chopped
+# Fish Tacos
 
-Fish: 1 lbs firm white-fleshed fish, cut across the grain into
-half-inch strips about 3 inches wide
-1/2 C milk
-1/2 C fine-ground white flour (Wondra)
-1 packet of Sazon
-1/2 C peanut oil
-1 Tbsp ghee
+## Ingredients
+
+**Garnishes:**
+- [Pico de gallo](pico_de_gallo.md) (or tomato mango avocado salsa)
+- Crema Mexicana
+- 1/2 C roughly chopped cilantro
+- 2 limes, cut into wedges
+- 2 C shredded cabbage
+- 12 6-inch tortillas
+- 1 avocado, cut into cubes, with lime juice squeezed all over them
+- Sweet onion, chopped
+
+**Fish:**
+- 1 lbs firm white-fleshed fish, cut across the grain into half-inch strips about 3 inches wide
+- 1/2 C milk
+- 1/2 C fine-ground white flour (Wondra)
+- 1 packet of Sazon
+- 1/2 C peanut oil
+- 1 Tbsp ghee
+
+## Instructions
 
 Place the fish in a small bowl and cover with milk.
 
 Mix the flour and sazon together in a shallow bowl.
 
-Heat the oil in a cast-iron skillet over high heat until shimmering,
-and add the ghee.
+Heat the oil in a cast-iron skillet over high heat until shimmering, and add the ghee.
 
-Take each fish fillet and place it in the flour and sazon dredge, coating
-on all sides and shaking off any excess. Then, place in the skillet,
-and cook for 3 minutes on one side, and 1 minute on the other. Remove
-to a baking rack with a mesh on top of it, and place in a warm oven as
-you complete the other fish.
+Take each fish fillet and place it in the flour and sazon dredge, coating on all sides and shaking off any excess. Then, place in the skillet, and cook for 3 minutes on one side, and 1 minute on the other. Remove to a baking rack with a mesh on top of it, and place in a warm oven as you complete the other fish.
 
-Inspired by: https://cooking.nytimes.com/recipes/1012445-fish-tacos
+## Source
+
+Inspired by https://cooking.nytimes.com/recipes/1012445-fish-tacos

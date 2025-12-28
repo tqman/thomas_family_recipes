@@ -1,13 +1,16 @@
-1 lbs chopped greens
+# Hearty Greens
 
-7 cloves garlic, minced
-Olive oil
-1 onion, chopped
-1C chicken broth
-1C tomato juice
-1 tsp curry powder
-1/4 tsp salt
+## Ingredients
 
-Sautee onion in oil until translucent and soft; 8 minutes. Add garlic
-until fragrant, 30 seconds. Add liquids and bring to a boil. Add greens
-and seasoning and cook uncovered for 40 minutes.
+- 1 lbs chopped greens
+- 7 cloves garlic, minced
+- Olive oil
+- 1 onion, chopped
+- 1 C chicken broth
+- 1 C tomato juice
+- 1 tsp curry powder
+- 1/4 tsp salt
+
+## Instructions
+
+Sautee onion in oil until translucent and soft; 8 minutes. Add garlic until fragrant, 30 seconds. Add liquids and bring to a boil. Add greens and seasoning and cook uncovered for 40 minutes.

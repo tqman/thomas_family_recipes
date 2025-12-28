@@ -1,29 +1,31 @@
-4 slices of bacon, cut into ¼" pieces
-1 medium onion, chopped
-2 stalks celery, sliced
-1 bell pepper, chopped
-7 cloves garlic, minced
-1C Carolina Gold Rice (200g)
-16oz canned tomato puree
-1 tsp salt
-½ tsp sugar
-2C chicken stock
-1 Thai pepper, sliced (or ½ tsp cayenne pepper)
+# Red Rice
 
-Place rice, chicken stock, salt, sugar, and tomatoes in rice
-cooker bowl.
+## Ingredients
 
-In a skillet, fry the bacon until crispy. Remove with a slotted spoon
-and place in rice cooker bowl.
+- 4 slices of bacon, cut into ¼" pieces
+- 1 medium onion, chopped
+- 2 stalks celery, sliced
+- 1 bell pepper, chopped
+- 7 cloves garlic, minced
+- 1C Carolina Gold Rice (200g)
+- 16oz canned tomato puree
+- 1 tsp salt
+- ½ tsp sugar
+- 2C chicken stock
+- 1 Thai pepper, sliced (or ½ tsp cayenne pepper)
 
-Add onion, celery, Thai pepper, and bell pepper to skillet, and sweat
-until onions are translucent, 7 - 10 minutes.
+## Instructions
+
+Place rice, chicken stock, salt, sugar, and tomatoes in rice cooker bowl.
+
+In a skillet, fry the bacon until crispy. Remove with a slotted spoon and place in rice cooker bowl.
+
+Add onion, celery, Thai pepper, and bell pepper to skillet, and sweat until onions are translucent, 7 - 10 minutes.
 
 Add garlic to skillet and cook until fragrant, about 30 seconds.
 
-Empty skillet into rice cooker and cook on normal "white rice" cycle
-until complete.
+Empty skillet into rice cooker and cook on normal "white rice" cycle until complete.
 
-Inspired by:
+## Source
 
-https://www.thespruceeats.com/baked-savannah-red-rice-3060219
+Inspired by https://www.thespruceeats.com/baked-savannah-red-rice-3060219

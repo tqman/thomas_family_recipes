@@ -1,47 +1,40 @@
-3 cloves garlic, chopped (or one scallion, chopped)
-3 Tbsp butter, separated
-1 sprig rosemary, chopped
-½ C chicken broth
-2 C apple juice
-Salt and pepper to taste
+# Apple Butter Sauce for Pork
 
-Optional: squeeze of lemon juice to brighten (not needed if the pork
-was cooked with lemon per Ad Hoc and you're using all the pan drippings
-to start)
+## Ingredients
 
-Traditional Pan Sauce Method:
+- 3 cloves garlic, chopped (or one scallion, chopped)
+- 3 Tbsp butter, separated
+- 1 sprig rosemary, chopped
+- ½ C chicken broth
+- 2 C apple juice
+- Salt and pepper to taste
+- Optional: squeeze of lemon juice to brighten (not needed if the pork was cooked with lemon per Ad Hoc and you're using all the pan drippings to start)
 
-After cooking the pork, remove it from the pan and set aside to rest,
-covered with foil to keep warm.
+## Instructions
+
+### Traditional Pan Sauce Method
+
+After cooking the pork, remove it from the pan and set aside to rest, covered with foil to keep warm.
 
 Pour out all but a couple of tablespoons of fat from the pan.
 
-Return the pan to medium heat. Add the garlic (or scallion) and sauté
-until fragrant, about 30 seconds.
+Return the pan to medium heat. Add the garlic (or scallion) and sauté until fragrant, about 30 seconds.
 
-Add the chicken broth and apple juice to the pan, scraping the bottom
-with a wooden spoon to deglaze and incorporate all the browned bits.
+Add the chicken broth and apple juice to the pan, scraping the bottom with a wooden spoon to deglaze and incorporate all the browned bits.
 
-Add the chopped rosemary. Bring to a boil, then reduce heat to
-medium-high and simmer briskly until the liquid has reduced by half and
-thickened slightly, about 8-12 minutes.
+Add the chopped rosemary. Bring to a boil, then reduce heat to medium-high and simmer briskly until the liquid has reduced by half and thickened slightly, about 8-12 minutes.
 
-Remove the pan from heat. Add 2 Tbsp of the butter and swirl the pan
-until the butter is fully incorporated and the sauce is glossy.
+Remove the pan from heat. Add 2 Tbsp of the butter and swirl the pan until the butter is fully incorporated and the sauce is glossy.
 
 Taste and season with salt and pepper. Add lemon juice if desired.
 
 Serve immediately over sliced pork.
 
----
-
-Modernist Version:
+### Modernist Version
 
 Follow the same steps as above through reducing the liquid.
 
-After reducing, use an immersion blender to blend the sauce smooth.
-While blending, add ¼ tsp xanthan gum and blend until fully
-incorporated.
+After reducing, use an immersion blender to blend the sauce smooth. While blending, add ¼ tsp xanthan gum and blend until fully incorporated.
 
 Remove from heat, add the 2 Tbsp butter, and blend until incorporated.
 

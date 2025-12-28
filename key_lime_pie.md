@@ -1,44 +1,43 @@
-Lime Filling:
-     4 tsp grated zest and ½ C strained juice from 3 - 4 Persian
-     limes (or 1 dozen Key Limes, but, see below)
-     4 large egg yolks
-     1 14 oz can sweetened condensed milk
+# Key Lime Pie
 
-Graham Cracker Crust:
-9 graham crackers (5 oz), broken into rough pieces
-2 Tbsp granulated sugar
-5 Tbsp unsalted butter, melted and kept warm
+## Ingredients
 
-Filling:
-Whisk the zest and yolks into a medium nonreactive bowl until tinted
-light green, about 2 minutes. Beat in the condensed milk, then the
-juice; set aside at room temperature to thicken (about 30 minutes).
+### Lime Filling
 
-Crust:
+- 4 tsp grated zest and ½ C strained juice from 3 - 4 Persian limes (or 1 dozen Key Limes, but, see below)
+- 4 large egg yolks
+- 1 14 oz can sweetened condensed milk
+
+### Graham Cracker Crust
+
+- 9 graham crackers (5 oz), broken into rough pieces
+- 2 Tbsp granulated sugar
+- 5 Tbsp unsalted butter, melted and kept warm
+
+## Instructions
+
+### Filling
+
+Whisk the zest and yolks into a medium nonreactive bowl until tinted light green, about 2 minutes. Beat in the condensed milk, then the juice; set aside at room temperature to thicken (about 30 minutes).
+
+### Crust
+
 Adjust oven rack to middle position and heat oven to 325F.
 
-In a food procesor, process the graham crackers until fine, about 30
-seconds (makes about 1 C crumbs). Add the sugar and pulse to
-combine. Continue to pulse while adding the warm melted butter in a
-steady stream; pulse until the mixture resembles wet sand.
+In a food procesor, process the graham crackers until fine, about 30 seconds (makes about 1 C crumbs). Add the sugar and pulse to combine. Continue to pulse while adding the warm melted butter in a steady stream; pulse until the mixture resembles wet sand.
 
-Transfer the crumbs to a 9-inch glass pie plate and evenly press the
-crumbs into the pie plate. Use your thumb and a ½C measuring cup to
-square off the top of the crust.
+Transfer the crumbs to a 9-inch glass pie plate and evenly press the crumbs into the pie plate. Use your thumb and a ½C measuring cup to square off the top of the crust.
 
-Bake the crust until it is fragrant and beginning to brown, 15 - 18
-minutes. Transfer to a wire rack and cool completely.
+Bake the crust until it is fragrant and beginning to brown, 15 - 18 minutes. Transfer to a wire rack and cool completely.
 
-Pie:
-Pour the lime filling into the crust; bake until the center is set yet
-wiggly when jiggled, 15 to 17 minutes. Return the pie to a wire rack;
-cool to room temperature. Refrigerate until well chilled, at least
-three hours. The pie can be covered directly with a lightly oiled or
-oil-sprayed plastic wrap and refrigerated for up to one day).
+### Pie
 
-NOTE: Actual Key Limes are harder to find, more expensive, and
-significantly more work. Per "The New Best Recipe" (2004), they make
-no noticeable difference in flavor.
+Pour the lime filling into the crust; bake until the center is set yet wiggly when jiggled, 15 to 17 minutes. Return the pie to a wire rack; cool to room temperature. Refrigerate until well chilled, at least three hours. The pie can be covered directly with a lightly oiled or oil-sprayed plastic wrap and refrigerated for up to one day).
 
-From: "The New Best Recipe", 2004, pp909 - 910
+## Notes
 
+Actual Key Limes are harder to find, more expensive, and significantly more work. Per "The New Best Recipe" (2004), they make no noticeable difference in flavor.
+
+## Source
+
+From *The New Best Recipe*, 2004, pp909 - 910

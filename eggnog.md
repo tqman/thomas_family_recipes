@@ -1,22 +1,25 @@
-6 large eggs
-3/4C granulated sugar
-2C whole milk (or 1C heavy cream and 1C water)
-1C heavy cream
-1 tsp vanilla extract
-1 cinnamon stick
-1/2 tsp nutmeg, freshly grated
+# Eggnog
 
-Places eggs in the Instant Pot insert, and blend with stick blender to
-break the yolks.
+## Ingredients
 
-Add sugar, whole milk, heavy cream, vanilla extract, cinnamon stick,
-and nutmeg in the Instant Pot insert. Hit it with the stick blender
-until smooth, frothy, and the sugar has dissolved, about 30 seconds.
+- 6 large eggs
+- 3/4 C granulated sugar
+- 2 C whole milk (or 1 C heavy cream and 1 C water)
+- 1 C heavy cream
+- 1 tsp vanilla extract
+- 1 cinnamon stick
+- 1/2 tsp nutmeg, freshly grated
+
+## Instructions
+
+Places eggs in the Instant Pot insert, and blend with stick blender to break the yolks.
+
+Add sugar, whole milk, heavy cream, vanilla extract, cinnamon stick, and nutmeg in the Instant Pot insert. Hit it with the stick blender until smooth, frothy, and the sugar has dissolved, about 30 seconds.
 
 Set the Instant Pot to cook for one hour at 144F.
 
-Afterward, set to keep warm, but remember not to exceed 144F (i.e., do
-not set it on "high") lest the eggs turn into scrambled eggs.
+Afterward, set to keep warm, but remember not to exceed 144F (i.e., do not set it on "high") lest the eggs turn into scrambled eggs.
 
+## Source
 
-https://www.savoringthegood.com/sous-vide-eggnog-recipe/
+From https://www.savoringthegood.com/sous-vide-eggnog-recipe/

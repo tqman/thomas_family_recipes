@@ -15,7 +15,7 @@
 
 ### Toppings
 - 1 lbs shredded cheese
-- Skillet marinara sauce with 2 Tbsp extra sugar and 5 minutes extra cook time
+- [Skillet marinara sauce](marinara_skillet.md) with 2 Tbsp extra sugar and 5 minutes extra cook time
 
 ## Instructions
 
@@ -31,7 +31,7 @@
 
 6. Coat the sides and bottom of the dough tub (or bowl you can cover) with olive oil, and your hands as well. Transfer dough to tub and let rest at room temperature until nearly doubled in size, about 1 hour.
 
-7. Make skillet marinara sauce with 2 Tbsp extra sugar and cooking it for five extra minutes. (This step can wait until later depending on timing but obviously has to be completed before 12 and takes about half an hour end-to-end).
+7. Make [skillet marinara sauce](marinara_skillet.md) with 2 Tbsp extra sugar and cooking it for five extra minutes. (This step can wait until later depending on timing but obviously has to be completed before 12 and takes about half an hour end-to-end).
 
 8. Turn the dough out onto a clean countertop. Roll the dough into a 15 by 12-inch rectangle. Using an off-set spatula, spread the softened butter over the dough leaving a 1/2-inch border along the edges. Starting at the short end, tightly roll the dough into a cyclinder. With the seam-side down, flatten the dough into a 18 by 4-inch rectangle. Fold the dough into thirds like a business letter. Pinch the seams together to form a ball. Plate, and cover tightly with plastic wrap and let rise in the refrigerator until nearly double in size, 45 to 50 minutes. You can hold this step for longer if desired / needed.
 

@@ -1,30 +1,30 @@
-20101227:
-Made for Christmas dinner, was excellent - the Granny Smiths are
-very tart, but the sugar balances it nicely. I also tossed in a pinch
-of fresh-ground nutmeg, a teaspoon of ground cinnamon, and coated the
-bottom pie crust with an egg white (per suggestion in the comments).
+# Apple Pie
 
-http://allrecipes.com//Recipe/apple-pie-by-grandma-ople/Detail.aspx
+## Ingredients
 
-1 recipe pastry for a 9 inch double crust pie
-½ C unsalted butter
-3 Tbsp all-purpose flour
-¼ C water
-½ C white sugar
-½ C packed brown sugar
-8 Granny Smith apples - peeled, cored and sliced
+- 1 recipe pastry for a 9 inch double crust pie
+- ½ C unsalted butter
+- 3 Tbsp all-purpose flour
+- ¼ C water
+- ½ C white sugar
+- ½ C packed brown sugar
+- 8 Granny Smith apples - peeled, cored and sliced
 
-Preheat oven to 425 degrees F (220 degrees C). Melt the butter in a
-saucepan. Stir in flour to form a paste. Add water, white sugar and
-brown sugar, and bring to a boil. Reduce temperature and let simmer.
+## Instructions
 
-Place the bottom crust in your pan. Fill with apples, mounded
-slightly. Cover with a lattice work crust. Gently pour the sugar and
-butter liquid over the crust. Pour slowly so that it does not run off.
+Preheat oven to 425 degrees F (220 degrees C). Melt the butter in a saucepan. Stir in flour to form a paste. Add water, white sugar and brown sugar, and bring to a boil. Reduce temperature and let simmer.
 
-Bake 15 minutes in the preheated oven. Reduce the temperature to 350
-degrees F (175 degrees C). Continue baking for 35 to 45 minutes, until
-apples are soft.
+Place the bottom crust in your pan. Fill with apples, mounded slightly. Cover with a lattice work crust. Gently pour the sugar and butter liquid over the crust. Pour slowly so that it does not run off.
+
+Bake 15 minutes in the preheated oven. Reduce the temperature to 350 degrees F (175 degrees C). Continue baking for 35 to 45 minutes, until apples are soft.
+
+## Notes
+
+20101227: Made for Christmas dinner, was excellent - the Granny Smiths are very tart, but the sugar balances it nicely. I also tossed in a pinch of fresh-ground nutmeg, a teaspoon of ground cinnamon, and coated the bottom pie crust with an egg white (per suggestion in the comments).
+
+## Source
+
+From http://allrecipes.com//Recipe/apple-pie-by-grandma-ople/Detail.aspx
 
 
 

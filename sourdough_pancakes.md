@@ -1,113 +1,73 @@
-20090411:
+# Sourdough Pancakes
 
-http://whatscookingamerica.net/Bread/SourdoughPancakes.htm Old-Fashioned
-Sourdough Pancakes
+## Ingredients
 
-2 cups sourdough starter, room temperature
-2 tablespoons sugar
-4 tablespoons olive oil
-1 egg ½ teaspoon salt
-1 teaspoon baking soda
-1 tablespoons warm water
+### 3 to 24 Hours Before
 
-These made crepe-like pancakes that everyone but Blake loved.
+- 1 C sourdough starter
+- 2 C water
+- 2½ C whole grain flour
 
-Take 2:
+### The Next Morning
 
-(Not actually made)
+- 3 large eggs
+- 4 Tbsp maple syrup, honey, maple sugar, or rapadura (optional)
+- ¼ C coconut oil or melted butter
+- 1 tsp baking soda
+- 1 tsp salt
 
-http://transfatty.blogs.com/index/2005/04/sourdough_panca.html
+## Instructions
 
-Finally I found a recipe in Nancy Silverton's Breads from the La Brea
-Bakery that combines active starter with a small amount of maple syrup,
-oil, eggs, salt, baking soda and powder. This sounded more like what I
-was looking for, though I was surprised that even Silverton added baking
-powder and soda, since she's a big advocate of natural leavening. Her
-recipe also called for two eggs and 2 tablespoons of syrup per two cups
-of starter, which struck me as a lot for that amount of flour. After
-scaling back the eggs and sugar and substituting butter for oil, I
-settled on the following recipe for my first attempt:
+3 to 24 hours before you want to eat, combine in a large bowl the starter, water, and flour. Make sure that you have plenty of room for this mixture to rise. If it is a very hot day, beware of leaving it too long as it will ferment very quickly. Usually make this up the night before for breakfast, or the morning of for dinner. In colder weather, you can do this recipe for up to 24 hours.
 
-4 cups starter (!)
-2 tablespoons syrup
-3 tablespoons butter, melted
-2 eggs
-½ teaspoon salt
-½ teaspoon baking soda
-½ teaspoon baking powder
+After the soaking period, add the rest of the ingredients, and combine well. A whisk is helpful. If you want thinner pancakes you can thin with water (or milk). Drop about 1/4 of a cup of the batter on a lightly oiled hot griddle (over medium to medium-high heat) until the the top is set, and the bottom lightly browned. Flip the pancake and cook until the pancake is lightly browned on the other side. Repeat until all of the batter is used, re-oiling the pan as needed.
 
-I fed the starter the night before, so it was active and bubbly
-by morning. For flour I used a mix of bread flour (which is what I
-normally put in starter) and all-purpose flour (which is normally used
-for pancakes). In the morning we combined all the other ingredients,
-added them to the starter, and mixed until just incorporated. (Too much
-mixing would develop more gluten, meaning tougher pancakes.) Then we
-cooked them off on a griddle over medium heat, adjusting the batter and
-the temperature as needed so the pancakes spread nicely on the griddle
-and don't stick.
+## Notes
 
-The resulting pancakes were a big hit, less cakey and more bread-like
-the most pancakes, but still light and fluffy, and with the expected,
-barely-soured flavor. In short, they had character, and people seemed
-to like them. I'll continue to experiment with the recipe -- next time
-I may try skipping the baking soda and powder -- but for a first attempt
-we were satisfied.
+20090411 - These made crepe-like pancakes that everyone but Blake loved.
 
-As an aside, I give a mixed review to Nancy Silverton's book. It's
-full of excellent information, but many of the recipes are so detailed,
-running onto multiple pages, that they're impossible to follow when your
-up to your arms in dough. I believe recipes should always be separated
-into the rambling part -- like I'm doing now -- and the procedural part,
-which should be as succinct as possible. If you catch me violating this
-rule, feel free to bust me.
+### Alternative Recipe (Not Actually Made)
 
-==========
-Notes, 20090404 (Saturday):
+From Nancy Silverton's *Breads from the La Brea Bakery*. This recipe combines active starter with a small amount of maple syrup, oil, eggs, salt, baking soda and powder. Surprisingly, even Silverton added baking powder and soda, since she's a big advocate of natural leavening. Her recipe also called for two eggs and 2 tablespoons of syrup per two cups of starter, which struck me as a lot for that amount of flour. After scaling back the eggs and sugar and substituting butter for oil:
 
-Started sponge at 0910.  Made everything Sunday. Note baking powder
-below was an addition.  Nobody liked how these came out.
+- 4 C starter
+- 2 Tbsp syrup
+- 3 Tbsp butter, melted
+- 2 eggs
+- ½ tsp salt
+- ½ tsp baking soda
+- ½ tsp baking powder
 
-1 C warm water
-1 C white flour
-½ C sourdough starter dough (half a tangerine ;)
-2 C milk
-2½ C whole grain flour
-3 large eggs
-4 Tbsp sugar (or maple syrup!)
-3 Tbsp melted butter
-2 tsp baking powder
-1 tsp baking soda
-1 tsp salt
+Feed the starter the night before, so it's active and bubbly by morning. For flour use a mix of bread flour (which is what normally goes in starter) and all-purpose flour (which is normally used for pancakes). In the morning combine all the other ingredients, add them to the starter, and mix until just incorporated. (Too much mixing would develop more gluten, meaning tougher pancakes.) Then cook them off on a griddle over medium heat, adjusting the batter and the temperature as needed so the pancakes spread nicely on the griddle and don't stick.
 
-24 hours before, mix warm water, white flour and dough. Cover and
-let stand.
+The resulting pancakes were a big hit, less cakey and more bread-like than most pancakes, but still light and fluffy, and with the expected, barely-soured flavor. In short, they had character, and people seemed to like them.
 
-About fifteen minutes before baking, melt the butter, and combine with
-eggs. Add milk.  Then, mix all other ingredients together.
+As an aside, Nancy Silverton's book gets a mixed review. It's full of excellent information, but many of the recipes are so detailed, running onto multiple pages, that they're impossible to follow when you're up to your arms in dough. Recipes should always be separated into the rambling part -- like this -- and the procedural part, which should be as succinct as possible.
 
-=========
+### Notes, 20090404 (Saturday)
 
-Original:
+Started sponge at 0910. Made everything Sunday. Note baking powder below was an addition. Nobody liked how these came out.
 
-http://www.thenourishinggourmet.com/2008/06/sourdough-pancakes-2.html
+- 1 C warm water
+- 1 C white flour
+- ½ C sourdough starter dough (half a tangerine)
+- 2 C milk
+- 2½ C whole grain flour
+- 3 large eggs
+- 4 Tbsp sugar (or maple syrup!)
+- 3 Tbsp melted butter
+- 2 tsp baking powder
+- 1 tsp baking soda
+- 1 tsp salt
 
-1 cup of sourdough starter (my starter is fed ¾ cups of water and one
-cup of flour, so it's the thinner type of starter) 2 cups of water 2½
-cups of whole grain flour 3 large eggs 4 tablespoons of maple syrup,
-honey, maple sugar, or rapadura (optional) ¼ cup of coconut oil,
-or melted butter 1 teaspoon of baking soda 1 teaspoon of salt
+24 hours before, mix warm water, white flour and dough. Cover and let stand.
 
-3 to 24 hours before you want to eat, combine in a large bowl the starter,
-water, and flour. Make sure that you have plenty of room for this mixture
-to rise. If it is a very hot day, beware of leaving it too long as it
-will ferment very quickly. I usually make this up the night before,
-for breakfast, or the morning of, for dinner. In colder weather, I have
-done this recipe for up to 24 hours.
+About fifteen minutes before baking, melt the butter, and combine with eggs. Add milk. Then, mix all other ingredients together.
 
-After the soaking period, add the rest of the ingredients, and combine
-well. A whisk is helpful. If you want thinner pancakes you can thin with
-water (or milk). Drop about 1/4 of a cup of the batter on a lightly oiled
-hot griddle (over medium to medium-high heat) until the the top is set,
-and the bottom lightly browned. Flip the pancake and cook until the
-pancake is lightly browned on the other side. Repeat until all of the
-batter is used, re-oiling the pan as needed.
+## Source
+
+From http://www.thenourishinggourmet.com/2008/06/sourdough-pancakes-2.html
+
+From http://whatscookingamerica.net/Bread/SourdoughPancakes.htm
+
+From http://transfatty.blogs.com/index/2005/04/sourdough_panca.html

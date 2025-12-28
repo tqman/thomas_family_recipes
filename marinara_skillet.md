@@ -1,32 +1,28 @@
-1 28-ounce can whole San Marzano tomatoes, certified D.O.P. if possible
-7 garlic cloves, peeled and minced or pressed
-Small dried whole chile, or pinch crushed red pepper flakes
-½ teaspoon kosher salt
-1 large fresh basil sprig, or ¼ tsp dried
-¼ teaspoon dried oregano, more to taste
-1 C water
-Olive oil
+# Marinara (Skillet Version)
+
+## Ingredients
+
+- 1 28-ounce can whole San Marzano tomatoes, certified D.O.P. if possible
+- 7 garlic cloves, peeled and minced or pressed
+- Small dried whole chile, or pinch crushed red pepper flakes
+- ½ teaspoon kosher salt
+- 1 large fresh basil sprig, or ¼ tsp dried
+- ¼ teaspoon dried oregano, more to taste
+- 1 C water
+- Olive oil
 
 If making pizza sauce: 2 Tbsp sugar
 
-Put tomatoes in a large bowl and crush with your hands. Add 1 C water
-to tomato can and swirl around to get remaining juices, and add to
-crushed tomatoes.
+## Instructions
 
-Heat olive oil in a large stainless steel skillet (not pot) over medium
-heat. Add garlic, and cook until fragrant, about 30 seconds.
+Put tomatoes in a large bowl and crush with your hands. Add 1 C water to tomato can and swirl around to get remaining juices, and add to crushed tomatoes.
 
-Add all other ingredients. Lightly boil sauce until thickened and
-surface oil is a deep orange, about 25 minutes. If making pizza sauce,
-let cook an extra five minutes (for 30 total) to dry it out more.
+Heat olive oil in a large stainless steel skillet (not pot) over medium heat. Add garlic, and cook until fragrant, about 30 seconds.
 
-Optional enhancement: Prior to adding the garlic to the hot oil,
-instead add ¼ C of tomato paste, and cook for 7 minutes, until brown
-and sticking to the pan (this only works on something not nonstick, like
-stainless steel). Then, add the garlic as above, but, when you add the
-tomato and water to the skillet, scrape the bottom with a wooden spoon
-to release the fond. This adds a lot of depth of flavor to the sauce,
-but isn't strictly necessary.
+Add all other ingredients. Lightly boil sauce until thickened and surface oil is a deep orange, about 25 minutes. If making pizza sauce, let cook an extra five minutes (for 30 total) to dry it out more.
 
-Inspired by
-http://cooking.nytimes.com/recipes/1015987-classic-marinara-sauce
+Optional enhancement: Prior to adding the garlic to the hot oil, instead add ¼ C of tomato paste, and cook for 7 minutes, until brown and sticking to the pan (this only works on something not nonstick, like stainless steel). Then, add the garlic as above, but, when you add the tomato and water to the skillet, scrape the bottom with a wooden spoon to release the fond. This adds a lot of depth of flavor to the sauce, but isn't strictly necessary.
+
+## Source
+
+Inspired by http://cooking.nytimes.com/recipes/1015987-classic-marinara-sauce

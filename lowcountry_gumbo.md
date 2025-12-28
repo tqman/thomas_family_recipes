@@ -1,22 +1,27 @@
-Bacon fat or butter
-7 cloves garlic, chopped
-1 medium onion, chopped
-1 bell pepper, chopped
-1 slice celery, sliced
-2 Tbsp all-purpose flour
-2 C chicken stock
-¼ C tomato paste
-16 oz canned tomato puree
-16 oz Okra, sliced into one inch pieces
-1.5 lbs fresh or frozen shrimp, peeled and deveined, tails removed
-2 Tbsp Old Bay Seasoning
-2 Thai peppers, sliced
-1 Tbsp kosher salt
+# Lowcountry Gumbo
+
+## Ingredients
+
+- Bacon fat or butter
+- 7 cloves garlic, chopped
+- 1 medium onion, chopped
+- 1 bell pepper, chopped
+- 1 slice celery, sliced
+- 2 Tbsp all-purpose flour
+- 2 C chicken stock
+- ¼ C tomato paste
+- 16 oz canned tomato puree
+- 16 oz Okra, sliced into one inch pieces
+- 1.5 lbs fresh or frozen shrimp, peeled and deveined, tails removed
+- 2 Tbsp Old Bay Seasoning
+- 2 Thai peppers, sliced
+- 1 Tbsp kosher salt
+
+## Instructions
 
 Melt bacon fat or butter in a large dutch oven.
 
-Sweat the onion, bell pepper, Thai pepper, and celery in pot until
-onion is translucent, 7 - 10 minutes.
+Sweat the onion, bell pepper, Thai pepper, and celery in pot until onion is translucent, 7 - 10 minutes.
 
 Add garlic and cook until fragrant, about 30 seconds.
 
@@ -24,16 +29,12 @@ Add flour and stir to combine with existing ingredients.
 
 Add chicken stock, salt, and Old Bay, whisking to combine.
 
-Raise to a boil and simmer for 30 minutes uncovered until reduced
-slightly. Add tomato paste and stir until dissolved. Add tomato
-puree, and cook until reduced slightly, about 15 minutes.
+Raise to a boil and simmer for 30 minutes uncovered until reduced slightly. Add tomato paste and stir until dissolved. Add tomato puree, and cook until reduced slightly, about 15 minutes.
 
-Add okra. If using frozen shrimp, add as well. Cover and cook,
-stirring occasionally, until okra is tender, 10 minutes.
+Add okra. If using frozen shrimp, add as well. Cover and cook, stirring occasionally, until okra is tender, 10 minutes.
 
-If using fresh shrimp, add, cover, and cook until shrimp are bright
-pink and opaque, about 5 minutes.
+If using fresh shrimp, add, cover, and cook until shrimp are bright pink and opaque, about 5 minutes.
 
-Inspired by:
+## Source
 
-https://www.allrecipes.com/recipe/283209/charleston-gumbo-with-shrimp-and-okra/
+Inspired by https://www.allrecipes.com/recipe/283209/charleston-gumbo-with-shrimp-and-okra/

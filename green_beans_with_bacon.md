@@ -1,52 +1,48 @@
-1 1/4 lbs green beans, trimmed
-Kosher salt
-4 pieces bacon, roughly chopped
-1/2 small yellow onion, finely chopped
-3 cloves garlic, minced
-1 tsp red pepper flakes
-1/4 C chopped toasted pecans
-Juice of 1/2 lemon
-Butter
-1/4 C Wondra
-1/2 C chicken stock
+# Green Beans with Bacon
 
-Saute the onions in butter until translucent, about six minutes. Add
-the garlic and cook until fragrant, about 1 minute.
+## Ingredients
+
+- 1 1/4 lbs green beans, trimmed
+- Kosher salt
+- 4 pieces bacon, roughly chopped
+- 1/2 small yellow onion, finely chopped
+- 3 cloves garlic, minced
+- 1 tsp red pepper flakes
+- 1/4 C chopped toasted pecans
+- Juice of 1/2 lemon
+- Butter
+- 1/4 C Wondra
+- 1/2 C chicken stock
+
+## Instructions
+
+Saute the onions in butter until translucent, about six minutes. Add the garlic and cook until fragrant, about 1 minute.
 
 Add the Wondra, and toss to coat. Cook for 1 minute.
 
-Add the remaining ingredients except the pecans, cover, and cook for
-three minutes.
+Add the remaining ingredients except the pecans, cover, and cook for three minutes.
 
-Remove cover and cook until sauce thickens, about two minutes. Toss
-with pecans, and serve immediately.
+Remove cover and cook until sauce thickens, about two minutes. Toss with pecans, and serve immediately.
 
+## Original Recipe
 
-ORIGINAL:
+### Ingredients
+- 2 1/2 lbs green beans, trimmed
+- Kosher salt
+- 1/2 lbs bacon, roughly chopped
+- 1 small yellow onion, finely chopped
+- 3 cloves garlic, minced
+- 1 tsp red pepper flakes
+- 1/2 C chopped toasted pecans
+- Juice of 1/2 lemon
+- Freshly ground pepper
 
-2 1/2 lbs green beans, trimmed
-Kosher salt
-1/2 lbs bacon, roughly chopped
-1 small yellow onion, finely chopped
-3 cloves garlic, minced
-1 tsp red pepper flakes
-1/2 C chopped toasted pecans
-Juice of 1/2 lemon
-Freshly ground pepper
+### Instructions
 
-Toss the green beans into a large pot of boiling salted water and cook
-until bright green in color and crisp-tender, about 5 minutes. Drain
-the beans and shock in a large bowl of ice water to stop the
-cooking. Drain the beans again and pat dry.
+Toss the green beans into a large pot of boiling salted water and cook until bright green in color and crisp-tender, about 5 minutes. Drain the beans and shock in a large bowl of ice water to stop the cooking. Drain the beans again and pat dry.
 
-Cook the bacon in a large, heavy saute pan until crisp, about 5
-minutes. Remove the bacon to a paper towel-lined plate to drain. Spoon
-off the excess bacon grease, leaving 2 tablespoons in the pan. Add the
-onion to the pan and saute until soft and very tender, 4 to 5
-minutes. Sprinkle in the garlic and red pepper flakes and saute until
-just fragrant, about 1 more minute. Add the reserved green beans and
-the pecans and cook until heated through, 5 to 6 minutes more. Return
-the bacon to the pan, pour in the lemon juice and toss. Season with
-salt and pepper.
+Cook the bacon in a large, heavy saute pan until crisp, about 5 minutes. Remove the bacon to a paper towel-lined plate to drain. Spoon off the excess bacon grease, leaving 2 tablespoons in the pan. Add the onion to the pan and saute until soft and very tender, 4 to 5 minutes. Sprinkle in the garlic and red pepper flakes and saute until just fragrant, about 1 more minute. Add the reserved green beans and the pecans and cook until heated through, 5 to 6 minutes more. Return the bacon to the pan, pour in the lemon juice and toss. Season with salt and pepper.
+
+## Source
 
 Inspired by https://www.foodnetwork.com/recipes/patrick-and-gina-neely/green-beans-and-bacon-recipe-1973644

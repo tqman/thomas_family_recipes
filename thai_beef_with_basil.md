@@ -1,80 +1,68 @@
-20171022:
-Don’t put jalapeños in it for Meg
+# Thai Beef with Basil
 
-20100424:
-Cut the below fish sauce and sugar in half, to 1 Tbsp each. Blake
-won't eat green pepper.
+## Ingredients
 
-20090301:
-Been making this pretty regularly.
+- 8 cloves garlic
+- 1 medium onion, chopped
+- 1 chopped green (or orange or whatever) pepper
+- 1 chopped jalapeño (seeds in)
+- 1 bunch fresh basil, chopped
+- 1 Tbsp fish sauce
+- 1 Tbsp sugar
+- 1 lbs 93% lean ground beef; or, 1 lbs steak (or chicken), cut into bite-sized pieces
+- 2 Tbsp stir-fry oil
 
-Here's the current recipe:
+## Instructions
 
-8 cloves garlic
-1 medium onion, chopped
-1 chopped green (or orange or whatever) pepper
-1 chopped jalepeño (seeds in)
-1 bunch fresh basil, chopped
-1 Tbsp fish sauce
-1 Tbsp sugar
-1 lbs 93% lean ground beef; or, 1 lbs steak (or chicken), cut into
-bite-sized pieces
-2 Tbsp stir-fry oil
+Heat the wok to smoking (or skillet on medium-high heat); add stir fry oil.
 
-Heat the wok to smoking (or skillet on medium-high heat); add stir fry
-oil.
+Add the peppers, jalapeños, and onions. If using bite-sized meat, add this as well, and stir-fry until done, about four minutes for steak and six - eight for chicken.
 
-Add the peppers, jalepños, and onions. If using bite-sized meat, add
-this as well, and stir-fry until done, about four minutes for steak and
-six - eight for chicken.
-
-If cooking with ground beef, add it after about two minutes, break it up,
-and cook until it is done (about five minutes).
+If cooking with ground beef, add it after about two minutes, break it up, and cook until it is done (about five minutes).
 
 Add garlic, and cook until fragrant, about 30 seconds.
 
-Add the basil, the sugar, and the fish sauce, toss until the basil is
-wilted (about 30 seconds) and serve immediately.
+Add the basil, the sugar, and the fish sauce, toss until the basil is wilted (about 30 seconds) and serve immediately.
 
-20070325:
-Below recipe has too much fish sauce - try 1/8th
+## Notes
+
+20171022: Don't put jalapeños in it for Meg
+
+20100424: Cut the below fish sauce and sugar in half, to 1 Tbsp each. Blake won't eat green pepper.
+
+20090301: Been making this pretty regularly.
+
+20070325: Below recipe has too much fish sauce - try 1/8th
 
 Do not, under any circumstances, add soy sauce, it's salty enough.
 
-I used a good bowl-full of sweet basil (one pack, about half a dozen
-stems) and it still wasn't enough.
+I used a good bowl-full of sweet basil (one pack, about half a dozen stems) and it still wasn't enough.
 
 I did about 1 Tbsp of sugar and couldn't notice it.
 
 The single jalepeno didn't really do much for heat. Try two, next time.
 
---
+### Original Recipe Notes
 
 Unfortunately, first time I made this, I didn't keep notes.
-
-Basis of this try is:
-
-http://www.panix.com/~clay/cookbook/bin/show_recipe.cgi?thai+recipe143
 
 8 cloves garlic
 1 C chopped (or pureed for the kids) onions
 1 chopped green (or orange or whatever) pepper
 1 chopped jalepeno
-1 C chopped fresh basil ¼ C fish sauce
+1 C chopped fresh basil
+¼ C fish sauce
 2 Tbsp sugar
 1 lbs ground beef
-
 
 Start some rice!
 
 Brown the beef, drain and remove.
 
-Kid-friendly: Put some garlic and the chopped jalepeno in some oil
-and sweat.  Remove and set aside. If not doing kid-friendly, just add
-with the green peppers.
+Kid-friendly: Put some garlic and the chopped jalepeno in some oil and sweat. Remove and set aside. If not doing kid-friendly, just add with the green peppers.
 
-Put oil in wok, and add garlic, onion, green peppers, basil, fish suace
-and sugar. Cook until the green peppers are soft. Turn off heat,
-and toss the ground beef with these ingredients.
+Put oil in wok, and add garlic, onion, green peppers, basil, fish suace and sugar. Cook until the green peppers are soft. Turn off heat, and toss the ground beef with these ingredients.
 
+## Source
 
+Based on http://www.panix.com/~clay/cookbook/bin/show_recipe.cgi?thai+recipe143

@@ -1,27 +1,29 @@
-200g liquid
+# Pan Sauce Notes
 
-Deglaze the pan with the liquid.
+## Ingredients
 
-Bring to a simmer and simmer for two minutes.
+- 200g liquid
+- 1½ Tbsp butter
+- 1 g xanthan gum
+- Pinch of salt
+- Few grinds of pepper
+- Acid if desired
 
-Tare the immersion blender cup.
+## Instructions
 
-Pour into the immersion blender cup; add 1½ Tbsp butter to the pan
-and melt it.
+1. Deglaze the pan with the liquid.
+2. Bring to a simmer and simmer for two minutes.
+3. Tare the immersion blender cup.
+4. Pour into the immersion blender cup; add 1½ Tbsp butter to the pan and melt it.
+5. Add acid if desired.
+6. Add 1 g xanthan gum
+7. Add a pinch of salt and a few grinds of pepper.
+8. Hit with the stick.
+9. Add melted butter to cup, and stick again.
 
-Add acid if desired.
+## Suggestions
 
-Add 1 g xantham gum
-
-Add a pinch of salt and a few grounds of pepper.
-
-Hit with the stick.
-
-Add melted butter, to cup, and stick again.
-
-Suggestions:
-
-apple juice, 1 Tbsp lemon
+- Apple juice, 1 Tbsp lemon
 
 
 

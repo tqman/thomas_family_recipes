@@ -1,99 +1,70 @@
-Turkey: 1 turkey, not frozen, about 10 lbs if you can find it.
-2 Tbsp salt
-1 tsp ground black pepper
-1 celery stalk, cut into 2 or 3 pieces
-1 medium carrot, peeled and cut into 2 or 3 pieces
-1 small onion, peeled and quartered
-2 branches sage
-2 branches thyme
+# Roast Turkey
 
-5C Water
+## Ingredients
 
-Jus
-1 Tbsp oil
-Neck, giblets and wing tips from one turkey (don't use the liver)
-1 tsp salt
-Ground pepper
-1½ C champagne
-4 C chicken broth
-A few sage leaves
-2 sprigs fresh thyme
-1 clove of garlic, smashed and peeled
-1 tsp soy sauce
-1 onion worth of mirepoix
+### Turkey
 
-This takes about four hours for a 10 lbs turkey. This will work fine
-for a larger turkey, but the cook time will be extended.
+- 1 turkey, not frozen, about 10 lbs if you can find it
+- 2 Tbsp salt
+- 1 tsp ground black pepper
+- 1 celery stalk, cut into 2 or 3 pieces
+- 1 medium carrot, peeled and cut into 2 or 3 pieces
+- 1 small onion, peeled and quartered
+- 2 branches sage
+- 2 branches thyme
+- 5C Water
+
+### Jus
+
+- 1 Tbsp oil
+- Neck, giblets and wing tips from one turkey (don't use the liver)
+- 1 tsp salt
+- Ground pepper
+- 1½ C champagne
+- 4 C chicken broth
+- A few sage leaves
+- 2 sprigs fresh thyme
+- 1 clove of garlic, smashed and peeled
+- 1 tsp soy sauce
+- 1 onion worth of mirepoix
+
+## Instructions
+
+This takes about four hours for a 10 lbs turkey. This will work fine for a larger turkey, but the cook time will be extended.
 
 Set oven to convection roast at 425F.
 
-Remove and discard the gizzards. Cut off the wing tips with poultry
-shears. Remove the neck. Reserve them for the jus. Be sure to fish out
-the giblet sack; it may be *way* up in the cavity.
+Remove and discard the gizzards. Cut off the wing tips with poultry shears. Remove the neck. Reserve them for the jus. Be sure to fish out the giblet sack; it may be *way* up in the cavity.
 
-Sprinkle half the salt into the cavity, and rub the other half over
-the bird.
+Sprinkle half the salt into the cavity, and rub the other half over the bird.
 
-Chop the celery and carrots into large pieces, and peel and halve the
-onion. Push them inside the cavity, with the herbs.
+Chop the celery and carrots into large pieces, and peel and halve the onion. Push them inside the cavity, with the herbs.
 
-Add 5C water to the bottom of the pan. Roast the turkey for 1 hour at
-425 degrees F. Then, without removing the bird, drop the oven
-temperature to non-convection bake at 225F to an internal temperature
-of 144F. If it reaches this temperature early, you may drop the oven
-to 170F (or its lowest setting) and hold it basically indefinitely.
+Add 5C water to the bottom of the pan. Roast the turkey for 1 hour at 425 degrees F. Then, without removing the bird, drop the oven temperature to non-convection bake at 225F to an internal temperature of 144F. If it reaches this temperature early, you may drop the oven to 170F (or its lowest setting) and hold it basically indefinitely.
 
-Remove the turkey at least half an hour (and up to a full hour) before
-serving, and tent with foil to keep warm.
+Remove the turkey at least half an hour (and up to a full hour) before serving, and tent with foil to keep warm.
 
-You may make the stock for jus immediately and refrigerate it for
-reheating later, or set the components in the fridge and make it 1 1/2
-- 2 1/2 hours before before you serve the turkey. To make the stock:
+You may make the stock for jus immediately and refrigerate it for reheating later, or set the components in the fridge and make it 1 1/2 - 2 1/2 hours before before you serve the turkey. To make the stock:
 
-Turn a burner to medium high. Add oil when pan is hot, add the neck,
-other turkey parts and mirepoix. Allow everything to brown, stirring
-now and again to prevent scorching, about 10 minutes.
+Turn a burner to medium high. Add oil when pan is hot, add the neck, other turkey parts and mirepoix. Allow everything to brown, stirring now and again to prevent scorching, about 10 minutes.
 
-Add about 1C of the chicken broth liquid and scrape up the browned bits
-on the bottom of the pan. Add the remaining chicken broth, garlic,
-herbs and soy sauce. Stir and bring to a boil, then immediately turn
-down the heat to a simmer. Partly cover and let simmer gently for at
-least an hour and no more than two. When the drippings from the turkey
-become available, you may add them as well. Strain the stock and set
-aside. You should have about 3 cups.
+Add about 1C of the chicken broth liquid and scrape up the browned bits on the bottom of the pan. Add the remaining chicken broth, garlic, herbs and soy sauce. Stir and bring to a boil, then immediately turn down the heat to a simmer. Partly cover and let simmer gently for at least an hour and no more than two. When the drippings from the turkey become available, you may add them as well. Strain the stock and set aside. You should have about 3 cups.
 
 Serve!
 
+## Notes
 
+### 20211205
 
+I put in 6C of water in the base and still had way too much at the end. 5C next year? Also did 425F to start with for 45 minutes before dropping the temp, and it took about four hours end-to-end for a 10 lbs (tiny) turkey.
 
----
-Original:
+### 20191202
 
-20211205: I put in 6C of water in the base and still had way too much
-at the end. 5C next year? Also did 425F to start with for 45 minutes
-before dropping the temp, and it took about four hours end-to-end for
-a 10 lbs (tiny) turkey.
+Smoked a lot again, even though I put in 1 1/2C braising liquid and 3C of water in the initial high heat. This year's turkey I think was smaller, and was a little drier. Next year drop the temp to 425F initially for real, and stop the roast at 30 minutes. We hit the initial temperature within four hours, and I had to bounce it up and down between 140 and 149. Hopefully if we drop it a bit at the start, it'll rise more slowly.
 
-20191202: Smoked a lot again, even though I put in 1 1/2C braising
-liquid and 3C of water in the initial high heat. This year's turkey I
-think was smaller, and was a little drier. Next year drop the temp to
-425F initially for real, and stop the roast at 30 minutes. We hit the
-initial temperature within four hours, and I had to bounce it up and
-down between 140 and 149. Hopefully if we drop it a bit at the start,
-it'll rise more slowly.
+Thoughts after making: I updated the recipe with many of the lessons learned, but want to note I didn't do anything at all with the juices in the roasting pan because I'd only used 1C deglazing liquid in the bottom of the pan, and it ran out while the turkey was still early in its roast (I also ran the oven at 450 convection), so things burned pretty badly there. The Jus seemed to turn out just fine (though forgot the soy sauce and had to put in a couple of pinches of salt at the end). So still see what you can do with the drippings next year but I have no direct advice for you (me). Both years the turkey smoked really dramatically, so I'd like to drop it to 425 in 2020.
 
-
-Thoughts after making: I updated the recipe with many of the lessons
-learned, but want to note I didn't do anything at all with the juices in
-the roasting pan because I'd only used 1C deglazing liquid in the bottom
-of the pan, and it ran out while the turkey was still early in its roast
-(I also ran the oven at 450 convection), so things burned pretty badly
-there. The Jus seemed to turn out just fine (though forgot the soy sauce
-and had to put in a couple of pinches of salt at the end). So still see
-what you can do with the drippings next year but I have no direct advice
-for you (me). Both years the turkey smoked really dramatically, so I'd
-like to drop it to 425 in 2020.
+## Original Recipe (for reference)
 
 Turkey: 1 turkey, not frozen, about 12 lbs
 2 Tbsp salt
@@ -104,9 +75,7 @@ Turkey: 1 turkey, not frozen, about 12 lbs
 2 branches sage
 2 branches thyme
 
-1½C Deglazing liquid (good white wine, or apple cider, or...the
-       first time I made this (Thanksgiving, 2018), I used Veuve
-       Cliquot and it was amazing)
+1½C Deglazing liquid (good white wine, or apple cider, or...the first time I made this (Thanksgiving, 2018), I used Veuve Cliquot and it was amazing)
 3C Water
 
 Jus
@@ -126,66 +95,28 @@ End-to-end this recipe takes twenty-four or more hours.
 
 Set oven to convection roast at 425 degrees F
 
-Remove and discard the gizzards. Cut off the wing tips with poultry
-shears. Remove the neck. Reserve them for the jus.
+Remove and discard the gizzards. Cut off the wing tips with poultry shears. Remove the neck. Reserve them for the jus.
 
-Sprinkle half the salt into the cavity, and rub the other half over
-the bird.
+Sprinkle half the salt into the cavity, and rub the other half over the bird.
 
-Chop the celery and carrots into large pieces, and peel and halve the
-onion. Push them inside the cavity, with the herbs.
+Chop the celery and carrots into large pieces, and peel and halve the onion. Push them inside the cavity, with the herbs.
 
-Add 1½ C de-glazing liquid and 3 C water to the bottom of the
-pan. Roast the turkey for 1 hour at 425 degrees F. Then, without
-removing the bird, drop the oven temperature to non-convection bake at
-170 degrees F, and roast it at least one hour per pound. It will not
-overcook or cause problems to hold it for up to 72 hours. The internal
-temperature goal is probably around 145F but it may be difficult to
-keep it under 155F; anything over 140F for at least a couple of hours
-is fine.
+Add 1½ C de-glazing liquid and 3 C water to the bottom of the pan. Roast the turkey for 1 hour at 425 degrees F. Then, without removing the bird, drop the oven temperature to non-convection bake at 170 degrees F, and roast it at least one hour per pound. It will not overcook or cause problems to hold it for up to 72 hours. The internal temperature goal is probably around 145F but it may be difficult to keep it under 155F; anything over 140F for at least a couple of hours is fine.
 
-You may make the stock for jus immediately and refrigerate it for
-reheating the next day, or set the components in the fridge and make
-it 1 1/2 - 2 1/2 hours before before you serve the turkey. To make the
-stock:
+You may make the stock for jus immediately and refrigerate it for reheating the next day, or set the components in the fridge and make it 1 1/2 - 2 1/2 hours before before you serve the turkey. To make the stock:
 
-Turn a burner to medium high. Add oil when pan is hot, add the neck,
-other turkey parts and mirepoix. Allow everything to brown, stirring
-now and again to prevent scorching, about 10 minutes.
+Turn a burner to medium high. Add oil when pan is hot, add the neck, other turkey parts and mirepoix. Allow everything to brown, stirring now and again to prevent scorching, about 10 minutes.
 
-Add 1 cup of the de-glazing liquid and scrape up the browned bits
-on the bottom of the pan. Add chicken broth, garlic, herbs and soy
-sauce. Stir and bring to a boil, then immediately turn down the heat to
-a simmer. Partly cover and let simmer gently for at least an hour and
-no more than two. Strain the stock and set aside. You should have about
-3 cups.
+Add 1 cup of the de-glazing liquid and scrape up the browned bits on the bottom of the pan. Add chicken broth, garlic, herbs and soy sauce. Stir and bring to a boil, then immediately turn down the heat to a simmer. Partly cover and let simmer gently for at least an hour and no more than two. Strain the stock and set aside. You should have about 3 cups.
 
-When the turkey is done, remove it to a platter or cutting board and tent
-with foil. Set the roasting pan across two burners. Over medium-high
-heat, get the juices bubbling hot and then add the remaining ½C of
-de-glazing liquid, scraping up the bits that stuck to the pan. Let
-cook for another for another two minutes until some of the liquid has
-evaporated. Add the stock from step 8 and cook, stirring occasionally,
-for another 5 or 6 minutes, until it has reduced slightly. Taste and
-adjust for seasoning. Strain to remove any remaining solids, put back
-into a pot and keep hot.
+When the turkey is done, remove it to a platter or cutting board and tent with foil. Set the roasting pan across two burners. Over medium-high heat, get the juices bubbling hot and then add the remaining ½C of de-glazing liquid, scraping up the bits that stuck to the pan. Let cook for another for another two minutes until some of the liquid has evaporated. Add the stock from step 8 and cook, stirring occasionally, for another 5 or 6 minutes, until it has reduced slightly. Taste and adjust for seasoning. Strain to remove any remaining solids, put back into a pot and keep hot.
 
-Won't this leave fat sitting on top? Perhaps skim fat first and bind
-with flour, or add some xantham gum and stick-blend the final product
-to bind it?
+Won't this leave fat sitting on top? Perhaps skim fat first and bind with flour, or add some xantham gum and stick-blend the final product to bind it?
 
 Serve!
 
-
-
-
-
-
-
-
-
+## Source
 
 Inspirations:
-https://cooking.nytimes.com/recipes/1019738-pulled-turkey-with-jus?action=click&module=RelatedLinks&pgtype=Article&login=email
-
-https://www.splendidtable.org/story/this-year-roast-the-turkey-while-you-sleep
+- https://cooking.nytimes.com/recipes/1019738-pulled-turkey-with-jus?action=click&module=RelatedLinks&pgtype=Article&login=email
+- https://www.splendidtable.org/story/this-year-roast-the-turkey-while-you-sleep

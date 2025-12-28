@@ -10,7 +10,7 @@
 
 ## Instructions
 
-Make the biscuits from biscuits.txt. Once you put them in the oven, begin to work on the sausage gravy.
+Make the [biscuits](biscuits.md). Once you put them in the oven, begin to work on the sausage gravy.
 
 In a cast-iron skillet, or nonstick pan, brown and break up the sausage. Sprinkle half the flour into the skillet until the sausage and rendered fat soak it up, then add a the remainder a little at a time until it's all incorporated. Cook for one minute.
 

@@ -1,48 +1,40 @@
-1 lbs ground pork
-1 inch fresh ginger grated
-1 clove garlic, pressed
-1 tsp onion powder
-1/4 tsp Chinese 5 spice (optional)
-1 Tbsp soy sauce
-2 1/2 C packaged fresh coleslaw (or 2 1/2 C finely chopped
-  cabbage & shredded carrots)
+# Egg Rolls
 
-12 egg roll wrappers (6 inch square)
-2 Tbsp all-purpose flour
-2 Tbsp water
-1 quart neutral oil for frying
+## Ingredients
 
-Over medium heat, cook pork, ginger, garlic, onion powder, chinese 5
-spice (if using) and soy sauce until no pink remains.
+**Filling:**
+- 1 lbs ground pork
+- 1 inch fresh ginger grated
+- 1 clove garlic, pressed
+- 1 tsp onion powder
+- 1/4 tsp Chinese 5 spice (optional)
+- 1 Tbsp soy sauce
+- 2 1/2 C packaged fresh coleslaw (or 2 1/2 C finely chopped cabbage & shredded carrots)
 
-Add the coleslaw (or cabbage and carrots) to the pork mixture and cook
-for 2-3 minutes until the cabbage is slightly softened. Remove from
-heat and allow the filling to cool to room temperature.
+**Wrapper and Assembly:**
+- 12 egg roll wrappers (6 inch square)
+- 2 Tbsp all-purpose flour
+- 2 Tbsp water
+- 1 quart neutral oil for frying
 
-In a small bowl, mix together the flour and water to create a paste for
-sealing the egg rolls.
+## Instructions
 
-To assemble the egg rolls: Place one wrapper on a clean surface with
-one corner pointing toward you (diamond shape). Place about 2-3
-tablespoons of filling in the center of the wrapper. Fold the bottom
-corner over the filling, then fold in the left and right corners. Roll
-tightly toward the top corner. Use the flour paste to seal the top
-corner. Repeat with remaining wrappers and filling.
+Over medium heat, cook pork, ginger, garlic, onion powder, chinese 5 spice (if using) and soy sauce until no pink remains.
 
-Heat the oil in a large, deep pot or wok to 350F (use a
-thermometer to verify temperature).
+Add the coleslaw (or cabbage and carrots) to the pork mixture and cook for 2-3 minutes until the cabbage is slightly softened. Remove from heat and allow the filling to cool to room temperature.
 
-Working in batches of 3-4 egg rolls at a time, carefully add the egg
-rolls to the hot oil. Fry for 3-4 minutes, turning occasionally, until
-golden brown and crispy on all sides.
+In a small bowl, mix together the flour and water to create a paste for sealing the egg rolls.
 
-Remove with a slotted spoon or spider and drain on paper towels. Allow
-the oil to return to 350F between batches.
+To assemble the egg rolls: Place one wrapper on a clean surface with one corner pointing toward you (diamond shape). Place about 2-3 tablespoons of filling in the center of the wrapper. Fold the bottom corner over the filling, then fold in the left and right corners. Roll tightly toward the top corner. Use the flour paste to seal the top corner. Repeat with remaining wrappers and filling.
 
-Serve hot with sweet and sour sauce, duck sauce, or soy sauce for
-dipping.
+Heat the oil in a large, deep pot or wok to 350F (use a thermometer to verify temperature).
 
+Working in batches of 3-4 egg rolls at a time, carefully add the egg rolls to the hot oil. Fry for 3-4 minutes, turning occasionally, until golden brown and crispy on all sides.
 
-From:
+Remove with a slotted spoon or spider and drain on paper towels. Allow the oil to return to 350F between batches.
 
-https://www.spendwithpennies.com/crispy-homemade-egg-rolls/
+Serve hot with sweet and sour sauce, duck sauce, or soy sauce for dipping.
+
+## Source
+
+From https://www.spendwithpennies.com/crispy-homemade-egg-rolls/

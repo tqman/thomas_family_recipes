@@ -1,22 +1,26 @@
-Begin with the whey output from cheese_curds.txt.
+# Ricotta Cheese
 
-Set IP to 185F (uncovered), and heat to 170F. Add ½ tsp salt, mix in
-quickly.
+## Ingredients
 
-Set IP to 208F, and heat to 185F - 195F (in this range; exact temp
-doesn't matter as long as it's about 184F and not boiling).
+- Whey output from [cheese_curds.md](cheese_curds.md)
+- ½ tsp salt
+- 3 Tbsp lemon juice
+
+## Instructions
+
+Begin with the whey output from [cheese curds](cheese_curds.md).
+
+Set IP to 185F (uncovered), and heat to 170F. Add ½ tsp salt, mix in quickly.
+
+Set IP to 208F, and heat to 185F - 195F (in this range; exact temp doesn't matter as long as it's about 184F and not boiling).
 
 Add 3 Tbsp lemon juice and stir briskly.
 
-The curds should begin to rise. As they rise, use a slotted spoon to
-move them to the center.
+The curds should begin to rise. As they rise, use a slotted spoon to move them to the center.
 
-Once the curds have finished forming, turn off the Instant Pot and let
-them rest for 15 minutes.
+Once the curds have finished forming, turn off the Instant Pot and let them rest for 15 minutes.
 
-Spoon them into a cheesecloth in a sieve or collander, and let drain
-for 15 minutes - several hours (the more you let them drain, the drier
-and more buttery the resultant product will be).
+Spoon them into a cheesecloth in a sieve or collander, and let drain for 15 minutes - several hours (the more you let them drain, the drier and more buttery the resultant product will be).
 
 Then, use immediately or refrigerate.
 

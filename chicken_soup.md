@@ -8,7 +8,7 @@
 - 2 stalks celery, chopped
 - 2 onions, chopped
 - 7 cloves garlic, minced
-- Stock from chicken_stock.txt
+- Stock from [chicken_stock.md](chicken_stock.md)
 - Leftover chicken from carcass
 - 1/4 C fresh parsley, chopped
 
@@ -21,7 +21,7 @@
 
 ## Instructions
 
-Make chicken_stock.txt, having removed any spare meat from the chicken carcass and reserved it.
+Make [chicken stock](chicken_stock.md), having removed any spare meat from the chicken carcass and reserved it.
 
 Heat a stock pot. Add olive oil, and sweat onions and celery until onions are translucent, about 7 minutes.
 

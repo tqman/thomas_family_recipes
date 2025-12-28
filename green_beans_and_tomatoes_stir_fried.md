@@ -1,50 +1,45 @@
-The below seemed like it would be too fishy and too salty, so, here's
-my version:
+# Green Beans and Tomatoes, Stir Fried
 
-1 small onion, chopped
-6 cloves garlic, chopped
-1 lbs green beans, trimmed and halved
-2 medium tomatoes, in 16ths or so (big chunks)
-1/4 C chicken broth (subs. sake or water)
-2 Tbsp fish sauce
-1 Tbsp low-salt soy sauce Stir-fry oil
+## Ingredients
 
-Heat the wok and put in stir-fry oil. Add the onion and garlic, cook
-and stir for a couple of minutes. Add green beans and tomatoes, and
-stir. Add soy sauce and fish sauce, stir-frying for about 2 minutes.
-Add chicken broth, cover, and steam until beans are done (about five
-minutes).
+- 1 small onion, chopped
+- 6 cloves garlic, chopped
+- 1 lbs green beans, trimmed and halved
+- 2 medium tomatoes, in 16ths or so (big chunks)
+- 1/4 C chicken broth (subs. sake or water)
+- 2 Tbsp fish sauce
+- 1 Tbsp low-salt soy sauce
+- Stir-fry oil
 
----
+## Instructions
 
-20090222:
+Heat the wok and put in stir-fry oil. Add the onion and garlic, cook and stir for a couple of minutes. Add green beans and tomatoes, and stir. Add soy sauce and fish sauce, stir-frying for about 2 minutes. Add chicken broth, cover, and steam until beans are done (about five minutes).
 
-Added about 1 Tbsp flour to thicken the sauce. Probably double to
-2 Tbsp. 2 Tbsp fish sauce was a bit too much - try 1 Tbsp.  1 Tbsp
-low-salt soy sauce was a bit too much - try 2 tsp.
+## Notes
 
-Steamed the beans for four minutes (stirring at three), which wasn't
-quite enough. Try five minutes, as the recipe suggests.
+20090222: Added about 1 Tbsp flour to thicken the sauce. Probably double to 2 Tbsp. 2 Tbsp fish sauce was a bit too much - try 1 Tbsp. 1 Tbsp low-salt soy sauce was a bit too much - try 2 tsp.
 
+Steamed the beans for four minutes (stirring at three), which wasn't quite enough. Try five minutes, as the recipe suggests.
 
-Original recipe:
+## Original Recipe
 
+The above is my version. The below seemed like it would be too fishy and too salty.
 
-http://allrecipes.com/Recipe/Stir-Fry-Spicy-Green-Beans/Detail.aspx?washelp=1&rid=1227915#1227915
+### Ingredients
+- 1/2 tsp vegetable oil
+- 1/2 yellow onion, chopped
+- 1 tsp minced garlic
+- 1 lbs fresh green beans, trimmed and halved
+- 1/4 C soy sauce
+- 3 Tbsp nuoc mam (Vietnamese fish sauce)
+- 1/4 C water
+- 1 medium tomato, diced
+- Salt and pepper to taste
 
-1/2 tsp vegetable oil
-1/2 yellow onion, chopped
-1 tsp minced garlic
-1 lbs fresh green beans, trimmed and halved
-1/4 C soy sauce
-3 Tbsp nuoc mam (Vietnamese fish sauce)
-1/4 C water
-1 medium tomato, diced
-salt and pepper to taste
+### Instructions
 
-Heat the oil in a skillet over medium heat. Add the onion and garlic;
-cook and stir for a few minutes then add the green beans. Stir to coat
-with the flavors in the pan. Season with soy sauce and fish sauce and let
-simmer for about 2 minutes, stirring occasionally. Pour in the water and
-let simmer for about 10 minutes, or until green beans are tender. Stir
-in tomato and season with salt and pepper before serving.
+Heat the oil in a skillet over medium heat. Add the onion and garlic; cook and stir for a few minutes then add the green beans. Stir to coat with the flavors in the pan. Season with soy sauce and fish sauce and let simmer for about 2 minutes, stirring occasionally. Pour in the water and let simmer for about 10 minutes, or until green beans are tender. Stir in tomato and season with salt and pepper before serving.
+
+## Source
+
+From http://allrecipes.com/Recipe/Stir-Fry-Spicy-Green-Beans/Detail.aspx?washelp=1&rid=1227915#1227915

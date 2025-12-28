@@ -1,158 +1,34 @@
-170g 95F water
-1 Tbsp instant yeast
-1 large egg
-2 Tbsp (ideally room temperature) unsalted butter
-418 g all-purpose flour
-8 g salt
-50g sugar
+# Hamburger Buns
 
-3 Tbsp melted butter (used during baking, not making dough, so don't
-melt it yet.
+## Ingredients
 
+- 170g 95F water
+- 1 Tbsp instant yeast
+- 1 large egg
+- 2 Tbsp (ideally room temperature) unsalted butter
+- 418 g all-purpose flour
+- 8 g salt
+- 50g sugar
+- 3 Tbsp melted butter (used during baking, not making dough, so don't melt it yet)
 
+## Instructions
 
-Add the water to the mixing bowl. Sprinkle in 1 Tbsp yeast, and let
-bloom for five minutes.
+Add the water to the mixing bowl. Sprinkle in 1 Tbsp yeast, and let bloom for five minutes.
 
-Add the remaining ingredients to a mixer, and combine on low
-speed. The dough should pull away from the bowl and make a ball; if it
-does not, it is too wet and you should add more flour.
+Add the remaining ingredients to a mixer, and combine on low speed. The dough should pull away from the bowl and make a ball; if it does not, it is too wet and you should add more flour.
 
 Knead on medium for 4 minutes.
 
-Remove the dough hook, and shape the dough into a rough ball in the
-mixing bowl.
+Remove the dough hook, and shape the dough into a rough ball in the mixing bowl.
 
-Cover the bowl, and let it rise for 90 minutes or until doubled in
-bulk.
+Cover the bowl, and let it rise for 90 minutes or until doubled in bulk.
 
-Turn the dough out onto a lightly floured surface. Gently deflate it,
-and divide it into eight pieces with a dough knife. On the work
-surface, shape each piece into a ball, and then flatten it with
-floured hands until it is about 3" across. Place on a baking sheet
-lined with parchment paper, cover with a dish towel, and let rise for
-about an hour.
+Turn the dough out onto a lightly floured surface. Gently deflate it, and divide it into eight pieces with a dough knife. On the work surface, shape each piece into a ball, and then flatten it with floured hands until it is about 3" across. Place on a baking sheet lined with parchment paper, cover with a dish towel, and let rise for about an hour.
 
-Preheat an oven to 350F, and melt the 3 Tbsp butter. Brush the tops of
-the buns with about half the butter, and place in oven for 15 minutes,
-or until golden brown.
+Preheat an oven to 350F, and melt the 3 Tbsp butter. Brush the tops of the buns with about half the butter, and place in oven for 15 minutes, or until golden brown.
 
-Remove from oven and brush the buns with the remaining melter
-butter. Cool on a rack.
+Remove from oven and brush the buns with the remaining melted butter. Cool on a rack.
 
+## Source
 
 From https://www.kingarthurflour.com/recipes/beautiful-burger-buns-recipe
-
-
-
-
-
-
-------- OLD, IGNORE:
-20090417
-Thinking about trying sourdough buns, based off:
-
-http://www.recipezaar.com/Sourdough-Burger-Buns-135870
-
-I've halved the original recipe to make four buns, and tweaked a little
-to get some more milk in:
-
-1 C sourdough starter, proofed and active
-2 Tbsp butter
-1/2 C milk, lukewarm
-1 eggs, beaten
-1/2 tsp salt
-1 Tbsp sugar
-2 1/2 C all-purpose flour
-
-The above may be a little damp - it may want up to another half C
-of flour.
-
-Below recipe is 2 1/4:3/4 (3:1) ratio flour to liquid. Assuming
-sourdough starter is 50/50 water and flour, and we want 1/2 C milk, since
-we have 1C total of liquid, we'd need 3C total of flour, which is 2 1/2 C.
-
-
-=====
-
-
-20090404:  Made as below (1/8 oz yeast), which took about 90 minutes
-to rise.
-
-My plan:
-
-1/2 C milk
-1/4 C water
-2 Tbsp butter
-2 1/4 C all-purpose flour (270 g +30 +30 +15)
-1/8 oz instant yeast (1 1/8 tsp)
-1 Tbsp white sugar
-3/4 tsp salt
-1 egg
-
-This may be a little "eggy" since it's hard to divide an egg in half.
-May have to add a bit more flour to make the consistency correct.
-
-In a small saucepan, heat the milk, water and butter until about 120
-degrees F.
-
-Beat an egg in a separate bowl.
-
-Pour 1C of flour into the bread machine, along with yeast, sugar and
-salt. Add the milk mixture, and begin "knead" cycle. Once dough is
-combined, add the egg. Add remaining flour 1C at a time as mixture
-is combined. When all ingredients are in, allow the "knead" cycle to
-complete, but stop before rise.
-
-Divide the dough into 6 equal pieces. Shape into smooth balls, and
-place on a greased cooking sheet. Let rest a couple of minutes, then
-flatten slightly (about four inches thick?). Let rise until doubled.
-This is listed as 35-45 minutes in most sources, but since I've halved
-the yeast, it could be as long as 90 minutes.
-
-When risen, bake at 400 F for 10 to 12 minutes, or until golden brown.
-
-
-
-
-
-
-
-
-====
-
-
-Original:
-
-
-From http://allrecipes.com/Recipe/Burger-or-Hot-Dog-Buns/Detail.aspx
-
-
- INGREDIENTS (Nutrition)
-
-
-    * 1 cup milk     * 1/2 cup water     * 1/4 cup butter   
- * 4 1/2 cups all-purpose flour     * 1 (.25 ounce) package instant
-yeast     * 2 tablespoons white sugar     * 1 1/2 teaspoons salt
-    * 1 egg
-
-
-
-
- DIRECTIONS
-
-
-   1. In a small saucepan, heat milk, water and butter until very warm,
-120 degrees F (50 degrees C).     2. In a large bowl, mix together
-1 3/4 cup flour, yeast, sugar and salt. Mix milk mixture into flour
-mixture, and then mix in egg. Stir in the remaining flour, 1/2 cup at
-a time, beating well after each addition. When the dough has pulled
-together, turn it out onto a lightly floured surface, and knead until
-smooth and elastic, about 8 minutes.     3. Divide dough into 12
-equal pieces. Shape into smooth balls, and place on a greased baking
-sheet. Flatten slightly. Cover, and let rise for 30 to 35 minutes.
-   4. Bake at 400 degrees F (200 degrees C) for 10 to 12 minutes,
-or until golden brown.     5. For Hot Dog Buns: Shape each piece into
-a 6x4 inch rectangle. Starting with the longer side, roll up tightly,
-and pinch edges and ends to seal. Let rise about 20 to 25 minutes. Bake
-as above. These buns are pretty big. I usually make 16 instead of 12.

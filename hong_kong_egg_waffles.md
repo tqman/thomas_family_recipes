@@ -1,25 +1,33 @@
-1 C (120g) all-purpose flour
-1 tsp baking powder
-1 1/2 tsp tapioca starch
-1 Tbsp custard powder
-2/3 C granulated white sugar
+# Hong Kong Egg Waffles
 
-2 large eggs
-2 Tbsp evaporated milk
-150 ml  water
-1 Tbsp vegetable oil
-1 tsp vanilla extract
+## Ingredients
 
-Place the dry ingredients in a large mixing bowl, and whisk to
-combine.
+### Dry Ingredients
+- 1 C (120g) all-purpose flour
+- 1 tsp baking powder
+- 1 1/2 tsp tapioca starch
+- 1 Tbsp custard powder
+- 2/3 C granulated white sugar
+
+### Wet Ingredients
+- 2 large eggs
+- 2 Tbsp evaporated milk
+- 150 ml water
+- 1 Tbsp vegetable oil
+- 1 tsp vanilla extract
+
+## Instructions
+
+Place the dry ingredients in a large mixing bowl, and whisk to combine.
 
 Place the wet ingredients in a bowl and combine.
 
-Pour the wet ingredients into the dry ingredients, and whisk until
-only small lumps remain.
+Pour the wet ingredients into the dry ingredients, and whisk until only small lumps remain.
 
 Refrigerate the batter for one hour before using.
 
 Makes 3.5 waffles
 
-From: https://kirbiecravings.com/hong-kong-egg-waffles/
+## Source
+
+From https://kirbiecravings.com/hong-kong-egg-waffles/

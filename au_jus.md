@@ -1,31 +1,32 @@
-1 Mirepoix Mix Box
-1 Tbsp tomato paste (for umami)
-3C Beef Broth
+# Au Jus
 
-Roast the roast. After the roast is resting, bring the roasting pan up
-on top of the stove. If there's a lot of fat in the pan (more than about
-⅛ C) pour most of it off, but be sure not to lose any meat juices. If
-necessary, on the convex, add some high-heat oil to the pan if it's dry.
+## Ingredients
 
-Add the mirepoix, and cook over medium high heat until the mirepoix is
-browned and sticking to the bottom of the pan, about seven minutes.
+- 1 Mirepoix Mix Box
+- 1 Tbsp tomato paste (for umami)
+- 3C Beef Broth
 
-Pour in the stock and deglaze the pan. Transfer to a stock pot, and
-simmer until liquid has reduced to about 2/3 of its original volume,
-about 20 minutes.
+## Instructions
+
+Roast the roast. After the roast is resting, bring the roasting pan up on top of the stove. If there's a lot of fat in the pan (more than about ⅛ C) pour most of it off, but be sure not to lose any meat juices. If necessary, on the convex, add some high-heat oil to the pan if it's dry.
+
+Add the mirepoix, and cook over medium high heat until the mirepoix is browned and sticking to the bottom of the pan, about seven minutes.
+
+Pour in the stock and deglaze the pan. Transfer to a stock pot, and simmer until liquid has reduced to about 2/3 of its original volume, about 20 minutes.
 
 Strain the liquid, and serve.
 
-https://www.thespruceeats.com/au-jus-recipe-for-prime-rib-996073
+## Notes
 
-
-
-
-Old - from 20120627
-1 Cup Beef Stock
-2 cloves garlic, pressed
-1 Tbsp soy sauce?
-¼ C red wine
-Pepper
+Old - from 20120627:
+- 1 Cup Beef Stock
+- 2 cloves garlic, pressed
+- 1 Tbsp soy sauce?
+- ¼ C red wine
+- Pepper
 
 Cook it all together for ten minutes
+
+## Source
+
+From https://www.thespruceeats.com/au-jus-recipe-for-prime-rib-996073

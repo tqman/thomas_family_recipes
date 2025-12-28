@@ -1,18 +1,20 @@
-2 oz Kuhl Whipped Cream Vodka
-1 oz Kiki Key Lime Liqueur
-1 oz sweet & sour mix
-½ oz fresh lime juice
-Graham crackers, crushed
-Honey or simple syrup for rimming
-Lime wheel for garnish
+# Key Lime Pie Cocktail
 
-Prepare the glass: Pour a small amount of honey or simple syrup onto a
-shallow plate. Pour crushed graham crackers onto another plate. Dip
-the rim of a chilled martini glass or coupe into the honey, then into
-the graham cracker crumbs to coat. Set aside.
+## Ingredients
 
-Fill a cocktail shaker with ice. Add the whipped cream vodka, key lime
-liqueur, sweet & sour mix, and lime juice.
+- 2 oz Kuhl Whipped Cream Vodka
+- 1 oz Kiki Key Lime Liqueur
+- 1 oz sweet & sour mix
+- ½ oz fresh lime juice
+- Graham crackers, crushed
+- Honey or simple syrup for rimming
+- Lime wheel for garnish
+
+## Instructions
+
+Prepare the glass: Pour a small amount of honey or simple syrup onto a shallow plate. Pour crushed graham crackers onto another plate. Dip the rim of a chilled martini glass or coupe into the honey, then into the graham cracker crumbs to coat. Set aside.
+
+Fill a cocktail shaker with ice. Add the whipped cream vodka, key lime liqueur, sweet & sour mix, and lime juice.
 
 Shake vigorously for 15-20 seconds until well chilled.
 
@@ -22,6 +24,10 @@ Garnish with a lime wheel on the rim.
 
 Serve immediately.
 
-From Dimitri's Tavern in Livermore
+## Notes
 
-NOTE: Have not yet actually *made* this yet, so amounts are a guess.
+Have not yet actually made this yet, so amounts are a guess.
+
+## Source
+
+From Dimitri's Tavern in Livermore

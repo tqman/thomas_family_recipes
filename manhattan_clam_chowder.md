@@ -1,29 +1,36 @@
-20131224: This is too much since most people don’t like it. Cut
-everything but clams and bacon in half (so, 2 C chicken broth; 15 oz
-tomatoes). Also, at that strength, two cloves of garlic.
+# Manhattan Clam Chowder
 
-First try, 20101224, I'm doubling and ideally trying fresh clams.
+## Ingredients
 
-http://fortheloveofcooking-recipes.blogspot.com/2009/04/manhattan-clam-chowder.html
+- 2 slices of bacon, cooked until crisp
+- ½ large sweet onion, diced
+- 2 carrots, diced
+- 2 celery stalks, diced
+- 1 clove of garlic, minced
+- 4 C of chicken broth
+- 1-2 15 oz cans of diced tomatoes, blended with an immersion blender
+- ½ tsp crushed red pepper
+- 1-2 tsp dried thyme
+- ¼ tsp Worcestershire sauce
+- 1 bay leaf
+- Sea salt and freshly cracked pepper, to taste (1 tsp salt)
+- 6-7 red baby potatoes, diced into bite sized chunks
+- 2 6.5 oz cans of clams and the juice
 
-2 slices of bacon, cooked until crisp
-½ large sweet onion, diced
-2 carrots, diced
-2 celery stalks, diced
-1 clove of garlic, minced
-4 C of chicken broth
-1-2 15 oz cans of diced tomatoes, blended with an immersion blender
-½ tsp crushed red pepper
-1-2 tsp dried thyme
-¼ tsp Worcestershire sauce
-1 bay leaf
-Sea salt and freshly cracked pepper, to taste (1 tsp salt)
-6-7 red baby potatoes, diced into bite sized chunks
-2 6.5 oz cans of clams and the juice
+## Instructions
 
-Cook the bacon in a large Dutch oven over medium heat. Once crispy,
-remove from pan and place on a paper towel to drain the fat. Once cooled,
-crumble the bacon. Remove all but 2 tsp of bacon grease from the Dutch
-oven. Add the onion, celery and carrots to the Dutch oven and sauté for
-6-7 minutes or until soft and tender. Add the minced garlic and cook,
-stirring constantly, for 60 seconds.
+Cook the bacon in a large Dutch oven over medium heat. Once crispy, remove from pan and place on a paper towel to drain the fat. Once cooled, crumble the bacon. Remove all but 2 tsp of bacon grease from the Dutch oven. Add the onion, celery and carrots to the Dutch oven and sauté for 6-7 minutes or until soft and tender. Add the minced garlic and cook, stirring constantly, for 60 seconds.
+
+## Notes
+
+### 20131224
+
+This is too much since most people don't like it. Cut everything but clams and bacon in half (so, 2 C chicken broth; 15 oz tomatoes). Also, at that strength, two cloves of garlic.
+
+### First try, 20101224
+
+I'm doubling and ideally trying fresh clams.
+
+## Source
+
+From http://fortheloveofcooking-recipes.blogspot.com/2009/04/manhattan-clam-chowder.html

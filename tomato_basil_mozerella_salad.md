@@ -1,13 +1,21 @@
-20130721: Needed half the dressing, double the salt, double the onion
-and double the garlic
+# Tomato Basil Mozerella Salad
 
-2 large tomatoes, diced
-8 oz of mozeralla, diced
-¼ red onion, diced
-⅛ C balsamic vinegar
-⅜ C olive oil
-½ tsp salt
-½ tsp pepper 2 garlic cloves, minced
-2 oz basil
+## Ingredients
 
-http://www.sprinklesofparsley.com/2010/08/tomato-basil-mozzarella-salad-with.html
+- 2 large tomatoes, diced
+- 8 oz of mozeralla, diced
+- ¼ red onion, diced
+- ⅛ C balsamic vinegar
+- ⅜ C olive oil
+- ½ tsp salt
+- ½ tsp pepper
+- 2 garlic cloves, minced
+- 2 oz basil
+
+## Notes
+
+20130721: Needed half the dressing, double the salt, double the onion and double the garlic
+
+## Source
+
+From http://www.sprinklesofparsley.com/2010/08/tomato-basil-mozzarella-salad-with.html

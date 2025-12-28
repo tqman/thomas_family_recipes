@@ -47,7 +47,7 @@ Remove from heat and blend sauce with an immersion blender. You may need to add 
 
 Pour the puréed sauce back into the pan. Stir the cream, sugar and crushed kasoori methi (or fenugreek leaves) through the sauce. Add the chicken with juices back into the pan and cook for an additional 8-10 minutes until chicken is cooked through and the sauce is thick and bubbling.
 
-Garnish with chopped cilantro if you feel fancy, and serve with rice or naan.
+Garnish with chopped cilantro if you feel fancy, and serve with rice or [naan](afghan_naan.md).
 
 ## Notes
 

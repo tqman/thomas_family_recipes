@@ -1,48 +1,35 @@
-1 C (85g) plain cake flour, sifted
-1½ C (298g) sugar, divided in half and sifted
-12 large egg whites at room temperature
-1 tsp cream of tartar
-½ tsp salt
-1½ tsp vanilla extract
-1½ tsp juice from 1 lemon
-½ tsp almond extract
+# Angel Food Cake
 
-Adjust oven rack to lower-middle position and pre-heat the oven to
-325F.
+## Ingredients
 
-Whisk the flour and ¾ C (149g) of the sugar in a small bowl. Place
-the remaining sugar in another small bowl by the mixer.
+- 1 C (85g) plain cake flour, sifted
+- 1½ C (298g) sugar, divided in half and sifted
+- 12 large egg whites at room temperature
+- 1 tsp cream of tartar
+- ½ tsp salt
+- 1½ tsp vanilla extract
+- 1½ tsp juice from 1 lemon
+- ½ tsp almond extract
 
-Beat the egg whites in the bowl of a stand mixer at low speed until
-just broken up and starting to froth. Add cream of tartar and salt and
-increase speed to medium until whites form soft, billowy mounds. With
-mixer still at medium, beat in the remaining ¾C sugar, 1 tsp at a
-time, until all sugar is added and the whites form shiny, soft
-peaks. Add the vanilla, lemon juice, and almond extract and beat until
-just blended.
+## Instructions
 
-Place the bowl on a piece of wax or parchment paper. Sift the flour and
-sugar mixture into the mixing bowl over the whites, about 3 Tbsp at a
-time, and gently fold it in with a silicone spatula. Any flour and
-sugar that miss the bowl will land on the parchment paper and should
-be re-sifted into the bowl and folded in.
+Adjust oven rack to lower-middle position and pre-heat the oven to 325F.
 
-Gently scrape the batter into an ungreased 9 inch tube pan with a
-removable bottom. Smooth the top with the spatula, and give the pan a
-couple of raps on the counter to release any large air bubbles.
+Whisk the flour and ¾ C (149g) of the sugar in a small bowl. Place the remaining sugar in another small bowl by the mixer.
 
-Bake until the cake is golden brown and the top springs back when
-pressed firmly, 50 to 60 minutes.
+Beat the egg whites in the bowl of a stand mixer at low speed until just broken up and starting to froth. Add cream of tartar and salt and increase speed to medium until whites form soft, billowy mounds. With mixer still at medium, beat in the remaining ¾C sugar, 1 tsp at a time, until all sugar is added and the whites form shiny, soft peaks. Add the vanilla, lemon juice, and almond extract and beat until just blended.
 
-If the cake pan has prongs around the rim, invert the pan onto
-them. If it does not, invert it onto the neck of a bottle or
-funnel. Let cool completely, 2 - 3 hours.
+Place the bowl on a piece of wax or parchment paper. Sift the flour and sugar mixture into the mixing bowl over the whites, about 3 Tbsp at a time, and gently fold it in with a silicone spatula. Any flour and sugar that miss the bowl will land on the parchment paper and should be re-sifted into the bowl and folded in.
 
-To unmold, run a knife around the edge of the pan, being careful not
-to separate the golden crust from the cake. Slide the cake out of the
-pan and cut the same way around the removable bottom to release. Place
-the cake bottom-side up on a platter, and cut slices by sawing gently
-with a long serrated knife. Serve the cake the day it is made.
+Gently scrape the batter into an ungreased 9 inch tube pan with a removable bottom. Smooth the top with the spatula, and give the pan a couple of raps on the counter to release any large air bubbles.
 
-From The New Best Recipe Revised Edition, 2004
+Bake until the cake is golden brown and the top springs back when pressed firmly, 50 to 60 minutes.
+
+If the cake pan has prongs around the rim, invert the pan onto them. If it does not, invert it onto the neck of a bottle or funnel. Let cool completely, 2 - 3 hours.
+
+To unmold, run a knife around the edge of the pan, being careful not to separate the golden crust from the cake. Slide the cake out of the pan and cut the same way around the removable bottom to release. Place the cake bottom-side up on a platter, and cut slices by sawing gently with a long serrated knife. Serve the cake the day it is made.
+
+## Source
+
+From *The New Best Recipe Revised Edition*, 2004
 

@@ -1,43 +1,45 @@
-Dry Ingredients:
-400 g cake flour
-2 Tbp cocoa powder
-1 tsp baking soda
-Pinch of salt
+# Red Velvet Cake
 
-Wet Ingredients:
-1 stick unsalted butter, softened
-330 g sugar
-2 eggs, room temperature
-1 C (250ml) vegetable oil (or try melted butter!)
-1 tsp white vinegar
-2 tsp vanilla extract
-1 C (250ml) buttermilk
-2½ Tbsp red food coloring liquid
+## Ingredients
 
-Preheat oven to 350F. Butter 2 8" round cake pans (sides and base) and
-dust with cocoa powder.
+### Dry Ingredients
+
+- 400 g cake flour
+- 2 Tbp cocoa powder
+- 1 tsp baking soda
+- Pinch of salt
+
+### Wet Ingredients
+
+- 1 stick unsalted butter, softened
+- 330 g sugar
+- 2 eggs, room temperature
+- 1 C (250ml) vegetable oil (or try melted butter!)
+- 1 tsp white vinegar
+- 2 tsp vanilla extract
+- 1 C (250ml) buttermilk
+- 2½ Tbsp red food coloring liquid
+
+## Instructions
+
+Preheat oven to 350F. Butter 2 8" round cake pans (sides and base) and dust with cocoa powder.
 
 Sift the Dry Ingredients and whisk to combine in a bowl
 
-Place butter and sugar in stand mixer bowl and beat with paddle mixer
-until smooth and well-combined.
+Place butter and sugar in stand mixer bowl and beat with paddle mixer until smooth and well-combined.
 
-Add eggs, one at a time, beating in between to combine. At first it
-will look curdled - keep beating until smooth
+Add eggs, one at a time, beating in between to combine. At first it will look curdled - keep beating until smooth
 
-Add vegetable oil, vinegar, vanilla, buttermilk, and red food
-coloring. Beat until combined and smooth.
+Add vegetable oil, vinegar, vanilla, buttermilk, and red food coloring. Beat until combined and smooth.
 
-Add Dry Ingredients. Beat until just combined - some small lumps are
-OK, that's better than over mixing
+Add Dry Ingredients. Beat until just combined - some small lumps are OK, that's better than over mixing
 
-Divide batter between cake pans. Bake for 25 - 30 minutes on the same
-shelf, or until a toothpick inserted into the center comes out clean.
+Divide batter between cake pans. Bake for 25 - 30 minutes on the same shelf, or until a toothpick inserted into the center comes out clean.
 
-Rest for 10 minutes in the pan, then turn out onto a cooling rack and
-allow to cool.
+Rest for 10 minutes in the pan, then turn out onto a cooling rack and allow to cool.
 
-For icing, see carrot_cake.txt.
+For icing, see [carrot_cake.md](carrot_cake.md).
 
+## Source
 
-From: https://www.recipetineats.com/red-velvet-cake/
+From https://www.recipetineats.com/red-velvet-cake/

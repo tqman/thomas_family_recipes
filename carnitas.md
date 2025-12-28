@@ -18,7 +18,7 @@
 
 ### Garnishes
 
-- Pico de gallo
+- [Pico de gallo](pico_de_gallo.md)
 - Crema Mexicana
 - 1/2 C roughly chopped cilantro
 - 2 limes, cut into wedges
