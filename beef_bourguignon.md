@@ -44,6 +44,6 @@
 
 7. When the sauce in the Dutch oven has reduced to about 3 C and thickened to the consistency of heavy cream, reduce the heat to medium-low. Stir in the beef, mushrooms and onions (and any accumulated juices), the remaining wine, and the brandy. Cover the pot and cook until just heated through, 5 - 8 minutes. Adjust the seasonings with salt and pepper to taste and serve, sprinkling the individual servings with the minced parsley.
 
----
+## Source
 
-*From The New Best Recipe, 2004, pp547 - 549*
+From *The New Best Recipe*, 2004, pp547 - 549
