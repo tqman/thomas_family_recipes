@@ -1,7 +1,7 @@
 1 lbs Italian sausage (sweet or mild, as desired)
 1 lbs fresh sliced Mozzarella
 4 servings (208g) penne
-Sauce from skillet_marinara.txt, cooked for an extra 5 - 10 minutes to
+Sauce from skillet_marinara_sauce.txt, cooked for an extra 5 - 10 minutes to
       reduce water, or marinara purchased from market
 
 Bring water to a boil. Add the penne and cook according to package
@@ -18,6 +18,3 @@ generally 5 - 10 minutes, but watch it closely as it goes from brown
 to burned very quickly.
 
 Let rest 5 minutes so the cheese can set before cutting and serving.
-
-
-
