@@ -1,0 +1,51 @@
+# Pork Carnitas
+
+## Ingredients
+
+### Pork
+
+- 2 1/2 pounds trimmed, boneless pork shoulder blade roast
+- 1 tsp kosher salt
+- 6 cloves garlic, cut into slivers
+- 1 1/2 tsp cumin
+- 1 packet (1/2 tsp sazon)
+- 1/4 tsp dried oregano
+- 1 C low-sodium chicken broth
+- 3 chipotle peppers in adobo sauce
+- 2 dried bay leaves
+- 1/4 tsp dried adobo seasoning
+- 1/2 tsp garlic powder
+
+### Garnishes
+
+- Pico de gallo
+- Crema Mexicana
+- 1/2 C roughly chopped cilantro
+- 2 limes, cut into wedges
+- 2 C shredded cabbage
+- 12 6-inch tortillas
+- 1 avocado, cut into cubes, with lime juice squeezed all over them
+
+## Instructions
+
+Set pot to sauté on high.
+
+Season the roast with salt and pepper.
+
+Spray pot with cooking oil spray, and brown the pork on all sides (approximately 3 minutes per side).
+
+Remove from heat and allow to cool. Using a sharp knife, slide the garlic slivers into the pork roast, all over.
+
+Season pork with cumin, sazon, oregano, adobo, and garlic powder, all over.
+
+Add chicken broth, chipotle peppers, and bay leaves to instant pot.
+
+Pressure cook on high for 80 minutes, then allow for a natural pressure release (about 25 minutes).
+
+Remove the roast from the pot, and shred using two forks. Spread the shredded pork in a single layer over a baking sheet and place under the broiler until the edges are crispy.
+
+Toss in some of the juices left in the pot and serve.
+
+## Source
+
+Inspired by https://www.skinnytaste.com/instant-pot-pork-carnitas-mexican/
