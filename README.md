@@ -2,7 +2,7 @@
 
 ## New Recipes
 
-When creating new recipes, please use the format found in [TEMPLATE.md](TEMPLATE.md].
+When creating new recipes, please use the format found in [TEMPLATE.md](TEMPLATE.md).
 
 ## Recipe-writing style guide
 
