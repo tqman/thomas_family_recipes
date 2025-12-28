@@ -1,0 +1,38 @@
+# Mashed Potatoes
+
+## Ingredients
+
+- 2 lbs Yukon Gold (or Russet) potatoes, scrubbed
+- 8 Tbsp (1 stick) unsalted butter, melted
+- 1 C cream, warmed (unwarmed was fine)
+- 1 1/2 tsp salt
+- Ground white pepper (may substitute black; white is for aesthetics)
+- 2 heads of roasted garlic (optional)
+
+## Instructions
+
+### Cooking the Potatoes
+
+Two ways to cook the potatoes. First, if you wish to boil them:
+
+Place skin-on potatoes in a large saucepan with cold water to cover by about 1 inch. Bring to a boil over high heat, reduce heat to medium-low, and simmer until the potatoes are just tender when pricked with a thin-bladed knife, 20 - 30 minutes. Drain the potatoes.
+
+Secondly, if you wish to roast them (recommended):
+
+Preheat an oven to 400F. Pierce the skins of each potatoes a few times with a fork. Place them on a baking sheet, and bake until very tender, about 60 minutes.
+
+### Finishing
+
+In order to save your fingers, you may let cool for about 20 - 30 minutes before continuing, but it's not necessary.
+
+Set a ricer over the now-empty but still-warm saucepan (or a bowl if you roasted the potatoes). Cut each potato in half (skin-on). Squeeze the back of the potato skin and the potato should mostly squish into the ricer. Press the potato through the ricer and discard the skin. Repeat for all halves and potatoes.
+
+Stir in the melted butter with a wooden spoon until incorporated. Gently whisk in the cream, salt, and pepper to taste. Serve immediately.
+
+### Variation
+
+May also add previously-roasted garlic cloves to the ricer with the potatoes for garlic mashed potatoes.
+
+## Source
+
+Inspired and updated from _The New Best Recipe_
