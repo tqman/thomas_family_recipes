@@ -11,6 +11,10 @@
 - Juice of one lime
 - 2 Tbsp stir fry oil
 
+## Instructions
+
+Mix the ingredients together and marinate fish (tuna works well) for at least 1 hour and no more than 24.
+
 ## Notes
 
 Was great on tuna, 20080609. Could probably double the wasabi, safely.

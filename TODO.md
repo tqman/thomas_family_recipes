@@ -1,0 +1,5 @@
+- Make sure no suggestions remain at the top of recipes
+- Fix all "teaspoons," "tablespoons," "pounds," and "cups"
+- Convert to markdown
+- Go through and make internal references links
+- Convert the easy meails files to be links and link to the new .md files

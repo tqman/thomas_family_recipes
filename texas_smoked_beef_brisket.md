@@ -1,6 +1,11 @@
 # Texas Smoked Beef Brisket
 
-## Rub Ingredients
+## Ingredients
+
+- Beef brisket
+- Oil
+
+### Rub Ingredients
 
 - 3 Tbsp coarsely ground black pepper
 - 2 Tbsp table salt
@@ -11,7 +16,7 @@
 - 2 tsp chili or ancho powder
 - 1 tsp chipotle or cayenne powder
 
-## Sauce Ingredients
+### Sauce Ingredients
 
 - 16 oz can tomato sauce
 - 1/2 C (4 oz) water

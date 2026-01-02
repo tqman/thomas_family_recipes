@@ -14,6 +14,10 @@
 - ¼ C tequila
 - 2 2-lbs beef loin tri-tip roasts, trimmed
 
+## Instructions
+
+Add meat and marinate for at least an hour before cooking
+
 ## Notes
 
 I used flank steak, as well, marinated for 1 hour, was delicious. Only cooked for about 6 minutes, should've been about 10.

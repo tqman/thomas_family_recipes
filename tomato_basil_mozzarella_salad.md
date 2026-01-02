@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 2 large tomatoes, diced
+- 2 large tomatoes, seeded and diced
 - 8 oz of mozzarella, diced
 - ¼ red onion, diced
 - ⅛ C balsamic vinegar
@@ -11,6 +11,10 @@
 - ½ tsp pepper
 - 2 garlic cloves, minced
 - 2 oz basil
+
+## Instructions
+
+Combine all ingredients. May serve immediately but the longer you can let it rest in the fridge, the better the flavors will combine.
 
 ## Notes
 

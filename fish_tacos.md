@@ -2,7 +2,8 @@
 
 ## Ingredients
 
-**Garnishes:**
+### Garnishes:
+
 - [Pico de gallo](pico_de_gallo.md) (or tomato mango avocado salsa)
 - Crema Mexicana
 - 1/2 C roughly chopped cilantro
@@ -12,7 +13,8 @@
 - 1 avocado, cut into cubes, with lime juice squeezed all over them
 - Sweet onion, chopped
 
-**Fish:**
+### Fish:
+
 - 1 lbs firm white-fleshed fish, cut across the grain into half-inch strips about 3 inches wide
 - 1/2 C milk
 - 1/2 C fine-ground white flour (Wondra)

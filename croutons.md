@@ -1,16 +1,24 @@
-Preheat oven to 375F. Place parchment on a baking sheet and set
-aside.
+# Croutons
 
-Cut sliced white bread into crouton-shaped pieces, about one slice per
-person being served.
+## Ingredients
+
+- Sliced white bread, about one slice per person being served
+- 1 Tbsp butter per bread slice
+- 1/4 tsp garlic powder per slice
+- 1/8 tsp salt per slice
+
+## Instructions
+
+Preheat oven to 375F. Place parchment on a baking sheet and set aside.
+
+Cut sliced white bread into crouton-shaped pieces, about one slice per person being served.
 
 Melt 1 Tbsp butter per bread slice.
 
-Toss the bread in the melted butter, along with 1/4 tsp garlic powder
-and 1/8 tsp salt per slice.
+Toss the bread in the melted butter, along with 1/4 tsp garlic powder and 1/8 tsp salt per slice.
 
 Spread evenly on the baking sheet and bake for 15 - 20 minutes.
 
-Inspired By:
+## Source
 
-https://www.twopeasandtheirpod.com/homemade-croutons/
+Inspired by https://www.twopeasandtheirpod.com/homemade-croutons/

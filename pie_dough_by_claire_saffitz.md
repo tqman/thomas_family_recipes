@@ -2,7 +2,8 @@
 
 ## Ingredients
 
-Flaky All-Butter Pie Dough (Double Recipe):
+### Flaky All-Butter Pie Dough (Double Recipe):
+
 - 20 Tbsp unsalted butter
 - 400g (3 C) all-purpose flour
 - 26g (2 Tbsp) sugar

@@ -1,15 +1,20 @@
-2 1/4 cups (284g) All-Purpose Flour, plus additional for dusting
-1 tspsalt
-1 Tbspbaking powder
-1/4 tspbaking soda
-1/2 Csour cream
-8 tbsp cold unsalted butter
-2 tbsp melted butter for brushing
-1 1/2 C buttermilk OR:
-1 1/2 tspvinegar
-1/2 C- 1 1/2 tspwhole milk
-  (add the vinegar to a measuring cup, then fill it up to 1/2 Cwith whole milk)
+# Biscuits
 
+## Ingredients
+
+- 2 1/4 cups (284g) All-Purpose Flour, plus additional for dusting
+- 1 tsp salt
+- 1 Tbsp baking powder
+- 1/4 tsp baking soda
+- 1/2 C sour cream
+- 8 tbsp cold unsalted butter
+- 2 tbsp melted butter for brushing
+- 1 1/2 C buttermilk OR:
+  - 1 1/2 tsp vinegar
+  - 1/2 C - 1 1/2 tsp whole milk
+  - (add the vinegar to a measuring cup, then fill it up to 1/2 C with whole milk)
+
+## Instructions
 
 Preheat oven to 425°F with rack in the middle position.
 
@@ -41,8 +46,8 @@ them about 1" apart. Form the dough scraps into a ball and knead gently 2 or 3 t
 smooth. Roll the dough out until it’s large enough to cut out 4 more 2 1/2" rounds, and
 transfer to the baking sheet.
 
-Brush the tops of the biscuits with the melted butter and bake until golden brown and well risen,
-about 13 minutes. Allow to cool for 5 minutes and serve.
+Brush the tops of the biscuits with the melted butter and bake until golden brown and well risen, about 13 minutes. Allow to cool for 5 minutes and serve.
 
+## Source
 
 Based on https://www.seriouseats.com/the-food-lab-buttermilk-biscuits-recipe from serious eats.

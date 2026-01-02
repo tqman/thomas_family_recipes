@@ -7,9 +7,7 @@
 - 7 cloves garlic, minced
 - ½ sweet white onion, chopped
 - 3 Tbsp soy sauce
-
-If baking with cheese:
-- 250g shredded cheese; 50/50 Cheddar/Gruyere recommended
+- If baking with cheese: 250g shredded cheese; 50/50 Cheddar/Gruyere recommended
 
 ## Instructions
 

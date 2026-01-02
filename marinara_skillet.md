@@ -10,8 +10,7 @@
 - ¼ teaspoon dried oregano, more to taste
 - 1 C water
 - Olive oil
-
-If making pizza sauce: 2 Tbsp sugar
+- If making pizza sauce: 2 Tbsp sugar
 
 ## Instructions
 

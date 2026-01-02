@@ -1,5 +1,0 @@
-# Mexican Salad
-
-## Source
-
-From http://jeanetteshealthyliving.com/2013/05/mexican-chopped-salad-with-lime-cilantro-dressing.html

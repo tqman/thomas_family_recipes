@@ -2,7 +2,8 @@
 
 ## Ingredients
 
-**Filling:**
+### Filling:
+
 - 1 lbs ground pork
 - 1 inch fresh ginger grated
 - 1 clove garlic, pressed
@@ -11,7 +12,8 @@
 - 1 Tbsp soy sauce
 - 2 1/2 C packaged fresh coleslaw (or 2 1/2 C finely chopped cabbage & shredded carrots)
 
-**Wrapper and Assembly:**
+### Wrapper and Assembly:
+
 - 12 egg roll wrappers (6 inch square)
 - 2 Tbsp all-purpose flour
 - 2 Tbsp water

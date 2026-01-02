@@ -3,8 +3,7 @@
 ## Ingredients
 
 - 25 g coffee per 300 g water (coarse-ground)
-
-Alternatively: One mug of coffee is 225 g of water, and 15 g of coffee.
+- Alternatively: One mug of coffee is 225 g of water, and 15 g of coffee.
 
 ## Instructions
 
