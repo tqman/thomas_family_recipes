@@ -1,12 +1,12 @@
-2 11oz tubs fresh black-eyed peas
-1 sweet onion, diced
-4 celery stalks, sliced
-14 cloves garlic, minced
-1 Thai chili, sliced thin, with seeds
-4 thick-cut slices of bacon, sliced into 1/4" strip
-5 C chicken stock
-2 tsp cajun spice
-1 tsp salt
+- 2 11oz tubs fresh black-eyed peas
+- 1 sweet onion, diced
+- 4 celery stalks, sliced
+- 14 cloves garlic, minced
+- 1 Thai chili, sliced thin, with seeds
+- 4 thick-cut slices of bacon, sliced into 1/4" strip
+- 5 C chicken stock
+- 2 tsp cajun spice
+- 1 tsp salt
 
 Place the bacon slices into a cold dutch oven on a stovetop. Set heat
 to medium, and cook, stirring occasionally, until fat has rendered
