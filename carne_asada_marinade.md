@@ -18,9 +18,7 @@ Per pound of flank steak:
 
 ## Instructions
 
-Combine all ingredients. Marinate steak, then grill.
-
-Cook 2-4 minutes per side for medium rare (depending on thickness).
+Combine all ingredients. Marinate steak, then grill. Cook 2-4 minutes per side for medium rare (depending on thickness).
 
 ## Source
 
