@@ -9,13 +9,13 @@ Per pound of chicken wings:
 ### Wings
 
 - 1 lb chicken wings, cut into drumettes and flats
-- 1 tsp (5g) baking powder (aluminum-free, or you'll get a metallic taste)
-- 1 tsp (5g) kosher salt (Diamond Crystal; use same weight but half volume for Morton's)
+- 2 tsp (10g) baking powder (aluminum-free, or you'll get a metallic taste)
+- 2 tsp (10g) kosher salt (Diamond Crystal; use same weight but half volume for Morton's)
 
 ### Sauce
 
-- 2 Tbsp unsalted butter (must be unsalted or the sauce is way too salty)
-- 2 Tbsp Frank's RedHot
+- 4 Tbsp unsalted butter (must be unsalted or the sauce is way too salty)
+- 4 Tbsp Frank's RedHot
 
 ### Serving
 
