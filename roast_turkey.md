@@ -54,6 +54,10 @@ Serve!
 
 ## Notes
 
+### 20261126
+
+16 lbs bird, in at 1100 (Maya's pie had the oven first). 425F convection for one hour, then 225F. Probe hit 110F at 1215, 134F at 1242, 144F at 1300: almost exactly two hours end-to-end, most of the climb from the 425F hour. Dropped the oven to 170F at 134F to keep it from overshooting; held from 1300 for a 1600 supper. This method is fast; the "cooked too slow" notes in the 2023 and 2024 AARs were the old 170F-after-sear version.
+
 ### 20211205
 
 I put in 6C of water in the base and still had way too much at the end. 5C next year? Also did 425F to start with for 45 minutes before dropping the temp, and it took about four hours end-to-end for a 10 lbs (tiny) turkey.
