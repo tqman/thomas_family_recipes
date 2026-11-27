@@ -21,6 +21,8 @@ Secondly, if you wish to roast them (recommended):
 
 Preheat an oven to 400F. Pierce the skins of each potatoes a few times with a fork. Place them on a baking sheet, and bake until very tender, about 60 minutes.
 
+2026: Yukon Gold knockoffs at 400F were not done at 45 minutes; give them the full hour.
+
 ### Finishing
 
 In order to save your fingers, you may let cool for about 20 - 30 minutes before continuing, but it's not necessary.
