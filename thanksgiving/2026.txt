@@ -1,9 +1,9 @@
 After Action Report:
 
-Turkey: peaked at about 155F, over target. Turned it down to 170F after the
-first hour and watched it; turned the oven off at about 145F and it still
-peaked at 155F. Next year: turn the oven OFF at about 135F, let it peak,
-then 170F to hold.
+Turkey: peaked at about 155F, over target. Did 425F for the first hour,
+then 225F, then turned the oven off at about 145F and it still peaked at
+155F. Next year: 425F -> 225F until 135F, then OFF until it peaks, then
+170F to hold.
 
 Potatoes: the recipe is for Yukon Gold (knockoffs) and it still needs the
 full hour at 400F. 45 minutes was undercooked and they wouldn't rice.
